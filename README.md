@@ -7,6 +7,13 @@ If you have better info please send pull requests.
 # Why I did this?
 to have a parseable list for all my hardware
 
+# Check your mainboard
+
+## linux
+```
+curl -s https://raw.githubusercontent.com/mathse/meltdown-spectre-bios-list/master/README.md | grep "$(cat /sys/devices/virtual/dmi/id/board_name)"
+```
+
 # ASUS
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
