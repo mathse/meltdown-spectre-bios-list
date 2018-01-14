@@ -14,6 +14,13 @@ to have a parseable list for all my hardware
 curl -s https://raw.githubusercontent.com/mathse/meltdown-spectre-bios-list/master/README.md | grep "$(cat /sys/devices/virtual/dmi/id/board_name)"
 ```
 
+## windows - powershell 3.0 or above
+```
+$model = Get-WmiObject -Class Win32_ComputerSystem -ComputerName . | Select-Object -Property Model
+$list = (Invoke-WebRequest https://raw.githubusercontent.com/mathse/meltdown-spectre-bios-list/master/README.md).content 
+$list.Split("`n") | Select-String $model.Model
+```
+
 # ASUS
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
