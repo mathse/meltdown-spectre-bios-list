@@ -1,4 +1,4 @@
-# Meltdown/Spectre BIOS list
+# Meltdown/Spectre BIOS/Firmware Updates list
 
 This is a list of all products an manufacturers which patched BIOS/Firmware addressing the Meltdown and Spectre vulnerabilities
 
