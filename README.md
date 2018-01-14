@@ -353,7 +353,6 @@ to have a parseable list for all my hardware
 # MSI
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
-| Z77A-G43 | 2.13 | 2014/05/01 | no |
 | Z370 Godlike Gaming | 7A98vA3 | ? | yes |
 | Z370 Gaming M5 | 7B58v12 | ? | yes |
 | Z370 Gaming Pro Carbon AC | 7B45vA3 | ? | yes |
@@ -363,20 +362,22 @@ to have a parseable list for all my hardware
 | Z370 Gaming Plus | 7B61v12 | ? | yes |
 | Z370 Tomahawk | 7B47v12 | ? | yes |
 | Z370M Gaming Pro AC | 7B44v12 | ? | yes |
-| Z370 SLI Plus | 7B46vA2 | ? | yes |Z370 Godlike Gaming 	7A98vA3
-Z370 Gaming M5 	7B58v12
-Z370 Gaming Pro Carbon AC 	7B45vA3
-Z370 Gaming Pro Carbon 	7B45vA3
-Z370I Gaming Pro Carbon AC 	7B43v12
-Z370 Krait Gaming 	7B46v12
-Z370 Gaming Plus 	7B61v12
-Z370 Tomahawk 	7B47v12
-Z370M Gaming Pro AC 	7B44v12
-Z370 SLI Plus 	7B46vA2
-Z370-A Pro 	7B48v23
-Z370 PC Pro 	7B49v12
+| Z370 SLI Plus | 7B46vA2 | ? | yes |
+| Z370 Godlike Gaming | 7A98vA3 | ? | yes
+| Z370 Gaming M5 | 7B58v12 | ? | yes
+| Z370 Gaming Pro Carbon AC | 7B45vA3 | ? | yes
+| Z370 Gaming Pro Carbon | 7B45vA3 | ? | yes
+| Z370I Gaming Pro Carbon AC | 7B43v12 | ? | yes
+| Z370 Krait Gaming | 7B46v12 | ? | yes
+| Z370 Gaming Plus | 7B61v12 | ? | yes
+| Z370 Tomahawk | 7B47v12 | ? | yes
+| Z370M Gaming Pro AC | 7B44v12 | ? | yes
+| Z370 SLI Plus | 7B46vA2 | ? | yes
+| Z370-A Pro | 7B48v23 | ? | yes
+| Z370 PC Pro | 7B49v12 | ? | yes
 | Z370-A Pro | 7B48v23 | ? | yes |
 | Z370 PC Pro | 7B49v12 | ? | yes |
+| Z77A-G43 (MS-7758) | 2.13 | 2014/05/01 | no |
 
 # Vendor links
 
