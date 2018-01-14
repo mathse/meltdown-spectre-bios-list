@@ -21,7 +21,7 @@ to have a parseable list for all my hardware
 # HP
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
-| ProLiant MicroServer Gen8 | ? | ? | no |
+| ProLiant MicroServer Gen8 | J06 | 2015/02/11 | no |
 
 # MSI
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
