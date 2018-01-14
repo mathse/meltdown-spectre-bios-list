@@ -68,7 +68,10 @@ Z370 PC Pro 	7B49v12
 
 # Vendor links
 
-ASUS: ? 
+ASUS: ?
+
 Dell: http://www.dell.com/support/article/us/en/04/sln308587/microprocessor-side-channel-vulnerabilities-cve-2017-5715-cve-2017-5753-cve-2017-5754-impact-on-dell-products?lang=en#Dell_Products_Affected
+
 HP: https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-a00039267en_us
+
 MSI: https://www.hardwareluxx.de/index.php/news/hardware/mainboards/45408-meltdown-asus-und-msi-stellen-bios-updates-fuer-z370-mainboards-bereit.html
