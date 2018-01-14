@@ -16,9 +16,10 @@ curl -s https://raw.githubusercontent.com/mathse/meltdown-spectre-bios-list/mast
 
 ## windows - powershell 3.0 or above
 ```
-$model = Get-WmiObject -Class Win32_ComputerSystem -ComputerName . | Select-Object -Property Model
+$model = (Get-WmiObject -Class Win32_ComputerSystem -ComputerName . | Select-Object -Property Model).Model
+$mainboard = (Get-WmiObject Win32_BaseBoard | Select-Object Product).Product
 $list = (Invoke-WebRequest https://raw.githubusercontent.com/mathse/meltdown-spectre-bios-list/master/README.md).content 
-$list.Split("`n") | Select-String $model.Model
+$list.Split("`n") | Select-String "$model |$mainboard "
 ```
 
 # ASUS
