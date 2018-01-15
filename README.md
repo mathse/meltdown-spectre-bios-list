@@ -255,7 +255,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Latitude E7470 | 1.18.5 | ? | yes
 | OptiPlex 3010 | follows | 1/19/2018
 | OptiPlex 3011 AIO | follows | 1/19/2018
-| OptiPlex 3020 | follows | 1/19/2018
+| OptiPlex 3020 | A16 | 1/11/2018 | yes (verified)
 | OptiPlex 3020M | A11 | ? | yes
 | OptiPlex 3030 | follows | 1/19/2018
 | OptiPlex 3040 | 1.6.1 | 2018/01/09 | yes |
