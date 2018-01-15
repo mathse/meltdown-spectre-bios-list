@@ -355,7 +355,59 @@ curl -s https://raw.githubusercontent.com/mathse/meltdown-spectre-bios-list/mast
 # HP
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
+| ProLiant ML10 Gen8 server | follows | | |
+| ProLiant ML310e Gen8 server | follows | | |
 | ProLiant MicroServer Gen8 | J06 | 2015/02/11 | no |
+| ProLiant XL260a Gen9 server | follows | | |
+| HPE Synergy 620 Gen9 Compute Modules | follows | | |
+| HPE Synergy 680 Gen9 Compute Modules | follows | | |
+| ProLiant Thin Micro TM200 | follows | | |
+| ProLiant m510 Server Cartridge | follows | | |
+| ProLiant m300 Server Cartridge | follows | | |
+| ProLiant m350 Server Cartridge | follows | | |
+| ProLiant DL160 Gen8 | follows | | |
+| ProLiant DL320e Gen8 | follows | | |
+| ProLiant DL360e Gen8 | follows | | |
+| ProLiant DL360p Gen8 | follows | | |
+| ProLiant DL380e Gen8 | follows | | |
+| ProLiant DL380p Gen8 | follows | | |
+| ProLiant DL560 Gen8 | follows | | |
+| ProLiant DL580 Gen8 | follows | | |
+| ProLiant ML350e Gen8 | follows | | |
+| ProLiant ML350p Gen8 | follows | | |
+| ProLiant SL230s Gen8 | follows | | |
+| ProLiant SL250s Gen8 | follows | | |
+| ProLiant SL270s Gen8 | follows | | |
+| ProLiant BL420c Gen8 | follows | | |
+| ProLiant BL460c Gen8 | follows | | |
+| ProLiant BL660c Gen8 | follows | | |
+| ProLiant SL210t Gen8 | follows | | |
+| ProLiant XL230a Gen9 | follows | | |
+| ProLiant XL250a gen9 | follows | | |
+| ProLiant XL170r Gen9 | follows | | |
+| ProLiant XL190r Gen9 | follows | | |
+| ProLiant DL60 Gen9 | follows | | |
+| ProLiant DL80 Gen9 | follows | | |
+| ProLiant XL730f Gen9 | follows | | |
+| ProLiant XL740f Gen9 | follows | | |
+| ProLiant XL750f Gen9 | follows | | |
+| Apollo 4200 Gen9 | follows | | |
+| ProLiant DL160 Gen9 | follows | | |
+| ProLiant DL180 Gen9 | follows | | |
+| ProLiant XL450 Gen9 | follows | | |
+| ProLiant XL270d Accelerator Tray | follows | | |
+| ProLiant DL560 Gen9 | follows | | |
+| ProLiant DL120 Gen9 | follows | | |
+| ProLiant DL360 Gen9 | follows | | |
+| ProLiant DL380 Gen9 | follows | | |
+| ProLiant ML350 Gen9 | follows | | |
+| ProLiant ML150 Gen9 | follows | | |
+| ProLiant m710 p server cartridge | follows | | |
+| ProLiant m710 server cartridge | follows | | |
+| ProLiant ML310e Gen8 server | follows | | |
+| ProLiant DL320e Gen8 server | follows | | |
+| ProLiant ML10 v2 | follows | | |
+| ProLiant XL220a Gen8 v2 | follows | | |
 
 # MSI
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
