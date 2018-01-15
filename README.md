@@ -269,7 +269,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | OptiPlex 7010 | A26 | 2018/01/09 | not verified |
 | OptiPlex 7020 | A14 | ? | yes
 | OptiPlex 7040 | 1.8.1 | ? | yes
-| OptiPlex 7050 | 1.7.7 | ? | yes
+| OptiPlex 7050 | 1.7.7 | 1/9/2018 | yes (verified)
 | OptiPlex 7440 AIO | 1.8.6 | ? | yes
 | OptiPlex 7450 | 1.8.1 | ? | yes
 | OptiPlex 9010 | A27 | ? | yes
