@@ -176,7 +176,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Latitude 3180 | follows | 1/18/2018
 | Latitude 3189 | follows | 1/18/2018
 | Latitude 3330 | follows | In Process
-| Latitude 3340 | A15 | ? | yes
+| Latitude 3340 | A15 | 1/12/2018 | yes
 | Latitude 3350 | A12 | ? | yes
 | Latitude 3379 | 1.0.21 | ? | yes
 | Latitude 3380 | 1.3.5 | ? | yes
