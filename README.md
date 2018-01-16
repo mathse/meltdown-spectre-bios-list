@@ -25,7 +25,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 # ASUS
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
-| B9940UA | 308 | 2017/11/09 | no |
+| B9440UA | 308 | 2017/11/09 | no |
 | Prime Z370-A | 0606 | ? | no |
 | Prime Z370-P | 0606 | ? | no |
 | ROG Maximus X Apex | follows | ? | |
