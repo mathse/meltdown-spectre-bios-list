@@ -411,6 +411,268 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 # HP
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
+| HP 21-h0xx PC | 80.18 | SP84417 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84417.exe
+| HP 23-g0xx PC | 80.18 | SP84417 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84417.exe
+| HP ENVY 15-q2xx | F.27 | SP84431 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84431.exe
+| HP ENVY 23-nxxx All-in-One PC Beats SE | 80.13 | SP84254 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84254.exe
+| HP ENVY 750-6xx | F.10 | SP84331 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84331.exe
+| HP ENVY Curved 34-a0xx All-in-One PC | A0.09 | SP84375 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84375.exe
+| HP ENVY Laptop 13-ad000 ~ 13-ad099 | F.19 | SP84431 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84431.exe
+| HP ENVY Laptop 13-ad1xx, 13t-ad100 | F.19 | SP84332 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84332.exe
+| HP ENVY Laptop 17-ae1xx, 17t-ae100, 17m-ae1xx | F.19 | SP84333 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84333.exe
+| HP ENVY Notebook 17-u2xx, 17t-u200 | F.11 | SP84207 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84207.exe
+| HP ENVY x360 Convertible 15-bp000 ~ 15-bp099 | F.33 | SP84242 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84242.exe
+| HP ENVY x360 Convertible 15m-bp000 ~ 15m-bp099 | F.33 | SP84242 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84242.exe
+| HP ENVY x360 Convertible 15-w200 ~ 15-w299 | F.31 | sp84223 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84223.exe
+| HP ENVY 750-4xx Desktop PC | F.40 | SP84196 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84196.exe
+| HP ENVY 750-5xxPC Desktop PC | F.21 | SP84435 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84435.exe
+| HP Notebook 13-s000 ~ 13-s099 | F.23 | SP84430 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84430.exe
+| HP Notebook PC 11-aa0XX | F.14 | SP84332 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84332.exe
+| HP Notebook PC 11-ab0XX | F.14 | SP84332 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84332.exe
+| HP Pavilion 13-a000 ~ 13-a099 x360 | F.38 | SP84429 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84429.exe
+| HP Pavilion 13-b000 ~ 13-b099 | F.38 | SP84429 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84429.exe
+| HP Pavilion 13t-a0XX x360 | F.38 | SP84429 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84429.exe
+| HP Pavilion 13t-b0XX | F.38 | SP84429 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84429.exe
+| HP Pavilion 23-p0xx All-in-One PC | 80.18 | SP84417 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84417.exe
+| HP Pavilion Laptop 14-bf0xx, 14t-bf000 | F.32 | SP84206 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84206.exe
+| HP Pavilion Laptop 15-ck0xx, 15t-ck000 | F.04 | SP84210 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84210.exe
+| HP Pavilion Notebook 15-bc200 ~ 15-bc299 | F.44 | SP84432 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84432.exe
+| HP Spectre Notebook 13-v100 ~ 13-v199 | F.38 | SP84333 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84333.exe
+| HP Spectre x2 Detachable 12-c000 ~ 12-c099 | F.12 | SP84208 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84208.exe
+| HP Spectre x360 Convertible 13-ae0xx, 13-ae5xx, 13t-ae000, 13t-ae500 | F.12 | SP84314 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84314.exe
+| HP Spectre x360 Convertible 15-bl1xx, 15t-bl100 | F.32 | SP84378 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84378.exe
+| OMEN by HP Laptop 17-an000 ~ 17-an099 | F.11 | sp84223 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84223.exe
+| OMEN X VR PC Pack | F.11 | SP84360 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84360.exe
+| Compaq 100-0xx Desktop PC | follows | Feb. 9 2018
+| Compaq 14-s000 thru 14-s099 (Intel) | follows | Feb. 9 2018
+| Compaq 14-s000 thru 14-s099 TouchSmart (Intel) | follows | Feb. 9 2018
+| Compaq 14t-s000 (Intel) | follows | Feb. 9 2018
+| Compaq 14t-s000 TouchSmart (Intel) | follows | Feb. 9 2018
+| Compaq 15-s000 ~ 15-s099 (Intel) | follows | Feb. 9 2018
+| Compaq 15-s000 ~ 15-s099 TouchSmart (Intel) | follows | Feb. 9 2018
+| Compaq 15t-s000 (Intel) | follows | Feb. 9 2018
+| Compaq 15t-s000 TouchSmart (Intel) | follows | Feb. 9 2018
+| Compaq 18-40xx PC | follows | Feb. 9 2018
+| Compaq 18-50xx PC | follows | Feb. 9 2018
+| Compaq 19-20xx PC | follows | Feb. 9 2018
+| Compaq Presario 45-900 ~ 45-999 | follows | Feb. 9 2018
+| HP 1000-1300 ~ 1000-1399 | follows | Feb. 9 2018
+| HP 10-pOXX | follows | Feb. 9 2018
+| HP 110-axx Desktop PC | follows | Feb. 9 2018
+| HP 14-r000 ~ HP14-r099 (Intel) | follows | Feb. 9 2018
+| HP 14-r000 ~ HP14-r099 TouchSmart (Intel) | follows | Feb. 9 2018
+| HP 14t-r000 (Intel) | follows | Feb. 9 2018
+| HP 14t-r000 TouchSmart (Intel) | follows | Feb. 9 2018
+| HP 15g-ad000 ~ ad099 Notebook PC | follows | Feb. 9 2018
+| HP 15g-ad100 ~ ad199 Notebook PC | follows | Feb. 9 2018
+| HP 15q-aj000 ~ aj099 Notebook PC | follows | Feb. 9 2018
+| HP 15q-aj100 ~ aj199 Notebook PC | follows | Feb. 9 2018
+| HP 15-r000 ~ HP15-r099 | follows | Feb. 9 2018
+| HP 15-r000 ~ HP15-r099 TouchSmart | follows | Feb. 9 2018
+| HP 15t-r000 | follows | Feb. 9 2018
+| HP 15t-r000 Touchsmart | follows | Feb. 9 2018
+| HP 18-50xx PC | follows | Feb. 9 2018
+| HP 19-20xx PC | follows | Feb. 9 2018
+| HP 20-20xx PC | follows | Feb. 9 2018
+| HP 20-r0xx All-in-One PC | follows | Feb. 9 2018
+| HP 22-20xx All-in-One PC | follows | Feb. 9 2018
+| HP 22-30xx All-in-One PC | follows | Feb. 9 2018
+| HP 23-r0xx All-in-One PC | follows | Feb. 9 2018
+| HP 240 G3 Notebook PC | follows | Feb. 9 2018
+| HP 240 G4 | follows | Feb. 9 2018
+| HP 240 G5 | follows | Feb. 9 2018
+| HP 240 g5 Notebook PC | follows | Feb. 9 2018
+| HP 246 G3 Notebook PC | follows | Feb. 9 2018
+| HP 246 G4 | follows | Feb. 9 2018
+| HP 246 G5 | follows | Feb. 9 2018
+| HP 246 G6 Notebook PC | follows | Feb. 9 2018
+| HP 246 Notebook PC | follows | Feb. 9 2018
+| HP 250 G1 Notebook PC | follows | Feb. 9 2018
+| HP 250 G3 | follows | Feb. 9 2018
+| HP 250 G4 | follows | Feb. 9 2018
+| HP 250 g4 Notebook PC | follows | Feb. 9 2018
+| HP 251-0xx Desktop PC | follows | Feb. 9 2018
+| HP 251-axx Desktop PC | follows | Feb. 9 2018
+| HP 256 G4 | follows | Feb. 9 2018
+| HP 256 G6 Notebook PC | follows | Feb. 9 2018
+| HP ENVY 12-g0xx | follows | Feb. 9 2018
+| HP ENVY 13-d000 ~ 13-d099 | follows | Feb. 9 2018
+| HP ENVY 13t-d000 ~ 13t-d099 | follows | Feb. 9 2018
+| HP ENVY 14-j000 ~ 14-j099 | follows | Feb. 9 2018
+| HP ENVY 14t | follows | Feb. 9 2018
+| HP ENVY 14t-j000 | follows | Feb. 9 2018
+| HP ENVY 14-u000 ~ 14-u099 | follows | Feb. 9 2018
+| HP ENVY 15 Notebook PC 15-q1xx | follows | Feb. 9 2018
+| HP ENVY 15-j000 ~ 15-j099; 15-j100 ~ 15-j199 | follows | Feb. 9 2018
+| HP ENVY 15-k000 - 15-k099 | follows | Feb. 9 2018
+| HP ENVY 15-p000 ~ 15-p099 | follows | Feb. 9 2018
+| HP ENVY 15-q3xx | follows | Feb. 9 2018
+| HP ENVY 15t-j000; 15t-j100 | follows | Feb. 9 2018
+| HP ENVY 15t-k000 | follows | Feb. 9 2018
+| HP ENVY 15t-p000 | follows | Feb. 9 2018
+| HP ENVY 17-j000 ~ 17-j099 Leap Motion SE | follows | Feb. 9 2018
+| HP ENVY 17-j000 ~ 17-j099 Leap Motion TS SE | follows | Feb. 9 2018
+| HP ENVY 17-j000 ~ 17-j099; 17-j100 ~ 17-j199 | follows | Feb. 9 2018
+| HP ENVY 17-j100 ~ 17-j199 Leap Motion SE | follows | Feb. 9 2018
+| HP ENVY 17-j100 ~ 17-j199 Leap Motion TS SE | follows | Feb. 9 2018
+| HP ENVY 17-n000 ~ 17-n099 | follows | Feb. 9 2018
+| HP ENVY 17t-j000 Leap Motion SE | follows | Feb. 9 2018
+| HP ENVY 17t-j000 Leap Motion TS SE | follows | Feb. 9 2018
+| HP ENVY 17t-j000; 17t-j100 | follows | Feb. 9 2018
+| HP ENVY 17t-j100 Leap Motion SE | follows | Feb. 9 2018
+| HP ENVY 17t-j100 Leap Motion TS SE | follows | Feb. 9 2018
+| HP ENVY 17t-n000 | follows | Feb. 9 2018
+| HP ENVY 24-m0xx All-in-One PC (Bulldozer-4GL/Bulldozer-4GTHD/Bulldozer-4GT/ Intel) | follows | Feb. 9 2018
+| HP ENVY 27-xxx Recline AIO PC | follows | Feb. 9 2018
+| HP ENVY h8-XXXX Desktop | follows | Feb. 9 2018
+| HP ENVY Laptop 17-ae000 ~ 17-ae099 | follows | Feb. 9 2018
+| HP ENVY Laptop 17m-ae000 ~ 17m-ae099 | follows | Feb. 9 2018
+| HP ENVY Notebook 13-ab000 ~ 13-ab099 | follows | Feb. 9 2018
+| HP ENVY Notebook 15-q3xx | follows | Feb. 9 2018
+| HP ENVY Notebook 15-q400~15-q499 | follows | Feb. 9 2018
+| HP ENVY Phoenix 800-0xx PC | follows | Feb. 9 2018
+| HP ENVY Phoenix 810-0xx PC | follows | Feb. 9 2018
+| HP ENVY Phoenix 850-0xx Desktop PC | follows | Feb. 9 2018
+| HP ENVY Recline 23-xxx All-in-One PC | follows | Feb. 9 2018
+| HP ENVY Recline Pro 23 All-in-One Business PC | follows | Feb. 9 2018
+| HP ENVY Recline Pro 27 All-in-One Business PC | follows | Feb. 9 2018
+| HP ENVY TouchSmart 15t-j000; 15t-j100 | follows | Feb. 9 2018
+| HP ENVY TouchSmart 17t-j000; 17t-j100 | follows | Feb. 9 2018
+| HP ENVY TouchSmart m7t-j000; m7t-j100 | follows | Feb. 9 2018
+| HP ENVY TS 15-j000 ~ 15-j099; 15-j100 ~ 15-j199 | follows | Feb. 9 2018
+| HP ENVY TS 17-j000 ~ 17-j099; 17-j100 ~ 17-j199 | follows | Feb. 9 2018
+| HP ENVY TS m7-j000 ~ m7-j099; m7-j100 ~ m7-j199 | follows | Feb. 9 2018
+| HP ENVY x2 13t-j0xx | follows | Feb. 9 2018
+| HP ENVY x2 15t-c0xx | follows | Feb. 9 2018
+| HP ENVY x2 Detachable PC 13-j000 ~ j099 | follows | Feb. 9 2018
+| HP ENVY x2 Detachable PC 15-c000 ~ c099 | follows | Feb. 9 2018
+| HP ENVY x360 15-w000 ~ 15-w099 | follows | Feb. 9 2018
+| HP ENVY x360 15-w1XX | follows | Feb. 9 2018
+| HP ENVY x360 Convertible 13-y000 ~ 13-y099 | follows | Feb. 9 2018
+| HP ENVY x360 Convertible 15-aq2xx, 15t-aq200 | follows | Feb. 9 2018
+| HP ENVY x360 Convertible 15-bp1xx, 15t-bp100, 15m-bp1xx | follows | Feb. 9 2018
+| HP ENVY x360 m6 Convertible PC | follows | Feb. 9 2018
+| HP ENVY x360 m6-w1xx | follows | Feb. 9 2018
+| HP Laptop 14-bp000 ~ 14-bp099 | follows | Feb. 9 2018
+| HP Laptop 14-bp1xx, 14s-bp1xx, 14s-bc1xx, 14s-be1xx | follows | Feb. 9 2018
+| HP Laptop 14-bs1xx, 14-bs6xx, 14t-bs100, 14t-bs600, 14g-br1xx, 14q-bu1xx | follows | Feb. 9 2018
+| HP Laptop 14s-bc000 ~ 14s-bc099 | follows | Feb. 9 2018
+| HP Laptop 14s-be000 ~ 14s-be099 | follows | Feb. 9 2018
+| HP Laptop 14s-bp000 ~ 14s-bp099 | follows | Feb. 9 2018
+| HP Laptop 15-bs0xx | follows | Feb. 9 2018
+| HP Laptop 15-bs1xx, 15-bs7xx, 15t-bs100, 15t-bs700, 15g-br1xx, 15q-bu1xx | follows | Feb. 9 2018
+| HP Laptop 17-bs000 ~ 17-bs099 | follows | Feb. 9 2018
+| HP Laptop 17-bs1xx, 17t-bs100, 17g-br1xx, 17q-bu1xx | follows | Feb. 9 2018
+| HP Laptop 17g-br000 ~ 17g-br099 | follows | Feb. 9 2018
+| HP Laptop 17g-bu000 ~ 17g-bu099 | follows | Feb. 9 2018
+| HP Notebook 11-f0XX | follows | Feb. 9 2018
+| HP Notebook 11-f1XX | follows | Feb. 9 2018
+| HP Notebook 14-w1xx | follows | Feb. 9 2018
+| HP Notebook 14-y0xx | follows | Feb. 9 2018
+| HP Notebook 15-f0xx | follows | Feb. 9 2018
+| HP Notebook g14 | follows | Feb. 9 2018
+| HP Notebook PC 15-f2xx | follows | Feb. 9 2018
+| HP OMEN Notebook 15-5300 ~ 5399 | follows | Feb. 9 2018
+| HP OMEN Notebook PC 15 | follows | Feb. 9 2018
+| HP OMEN Pro 15 | follows | Feb. 9 2018
+| HP Pavilion 11-n000 x360 ~ Pavilion 11-n099 x360 | follows | Feb. 9 2018
+| HP Pavilion 11t x360 | follows | Feb. 9 2018
+| HP Pavilion 14-al000~14-al099 | follows | Feb. 9 2018
+| HP Pavilion 14t-al000 | follows | Feb. 9 2018
+| HP Pavilion 14t-v000 | follows | Feb. 9 2018
+| HP Pavilion 14-v000~14-v099 | follows | Feb. 9 2018
+| HP Pavilion 15-au000~15-au099 | follows | Feb. 9 2018
+| HP Pavilion 15-bc000~15-bc099 | follows | Feb. 9 2018
+| HP Pavilion 15-n100~199 | follows | Feb. 9 2018
+| HP Pavilion 15-p000~15-p099 | follows | Feb. 9 2018
+| HP Pavilion 15t-au000 | follows | Feb. 9 2018
+| HP Pavilion 15t-bc000 | follows | Feb. 9 2018
+| HP Pavilion 15t-p000 | follows | Feb. 9 2018
+| HP Pavilion 17-ab001~ 17-ab099 | follows | Feb. 9 2018
+| HP Pavilion 17t-ab001 | follows | Feb. 9 2018
+| HP Pavilion 17-x000~17-x099 | follows | Feb. 9 2018
+| HP Pavilion 550-0xx Desktop PC | follows | Feb. 9 2018
+| HP Pavilion All-in-One 24-qa0xx | follows | Feb. 9 2018
+| HP Pavilion All-in-One 24-r0xx | follows | Feb. 9 2018
+| HP Pavilion All-in-One 24-x0xx | follows | Feb. 9 2018
+| HP Pavilion All-in-One 27-qa0xx | follows | Feb. 9 2018
+| HP Pavilion All-in-One 27-r0xx | follows | Feb. 9 2018
+| HP Pavilion HPE h8-1xxx PC | follows | Feb. 9 2018
+| HP Pavilion HPE h9-1xxx Phoenix PC | follows | Feb. 9 2018
+| HP Pavilion Laptop 14-bf1xx, 14t-bf100 | follows | Feb. 9 2018
+| HP Pavilion Laptop 14-bk000 ~ 14-bk099 | follows | Feb. 9 2018
+| HP Pavilion Laptop 14-bk1xx, 14t-bk100 | follows | Feb. 9 2018
+| HP Pavilion Laptop 15-cc000 ~ 15-cc099 | follows | Feb. 9 2018
+| HP Pavilion Laptop 15-cc1xx, 15t-cc100 | follows | Feb. 9 2018
+| HP Pavilion Laptop 15-cc500 ~ 15-cc599 | follows | Feb. 9 2018
+| HP Pavilion Laptop 15-cc6xx, 15t-cc600 | follows | Feb. 9 2018
+| HP Pavilion Laptop 15-cc700 ~ 15-cc799 | follows | Feb. 9 2018
+| HP Pavilion Mini Desktop 300-0xx | follows | Feb. 9 2018
+| HP Pavilion Notebook 14-ab000~ab099 | follows | Feb. 9 2018
+| HP Pavilion Notebook 14-ab100~ab199 | follows | Feb. 9 2018
+| HP Pavilion Notebook 14t-ab000 | follows | Feb. 9 2018
+| HP Pavilion Notebook 14t-ab100 | follows | Feb. 9 2018
+| HP Pavilion Notebook 15-ab000~ab099 | follows | Feb. 9 2018
+| HP Pavilion Notebook 15-ab100~ab199 | follows | Feb. 9 2018
+| HP Pavilion Notebook 15-ab500~ab599 | follows | Feb. 9 2018
+| HP Pavilion Notebook 15-bc3xx, 15t-bc300 | follows | Feb. 9 2018
+| HP Pavilion Notebook 15t-ab000 | follows | Feb. 9 2018
+| HP Pavilion Notebook 15t-ab200 | follows | Feb. 9 2018
+| HP Pavilion Notebook 17-ab200 ~ 17-ab299 | follows | Feb. 9 2018
+| HP Pavilion Notebook 17-ab3xx, 17t-ab300 | follows | Feb. 9 2018
+| HP Pavilion Power Laptop 15-cb000 ~ 15-cb099 | follows | Feb. 9 2018
+| HP Pavilion Power Laptop 15-cb500 ~ 15-cb599 | follows | Feb. 9 2018
+| HP Pavilion x2 10-n1xx | follows | Feb. 9 2018
+| HP Pavilion x2 10-n2XX | follows | Feb. 9 2018
+| HP Pavilion x2 Detachable 12-b000 ~ 12-b099 (Intel) | follows | Feb. 9 2018
+| HP Pavilion x2 Detachable 12-b100 ~ 12-b199 (Intel) | follows | Feb. 9 2018
+| HP Pavilion x2 Detachable PC 10-j0xx (Intel) | follows | Feb. 9 2018
+| HP Pavilion x2 Detachable PC 10-k0xx (Intel) | follows | Feb. 9 2018
+| HP Pavilion x360 13-s100 ~13-s199 | follows | Feb. 9 2018
+| HP Pavilion x360 15-bk000 ~ 15-bk099 | follows | Feb. 9 2018
+| HP Pavilion x360 15-bk100 ~ 15-bk199 | follows | Feb. 9 2018
+| HP Pavilion x360 Convertible 11 11-k000~11-k099 | follows | Feb. 9 2018
+| HP Pavilion x360 Convertible 11-ad000 ~ 11-ad099 | follows | Feb. 9 2018
+| HP Pavilion x360 Convertible 11m-ad000 ~ 11m-ad099 | follows | Feb. 9 2018
+| HP Pavilion x360 Convertible 14-ba000 ~ 14-ba099 | follows | Feb. 9 2018
+| HP Pavilion x360 Convertible 14-ba1xx, 14t-ba100, 14m-ba1xx, 14t-cc100, 14-cc1xx | follows | Feb. 9 2018
+| HP Pavilion x360 Convertible 14-cc000 ~ 14-cc099 | follows | Feb. 9 2018
+| HP Pavilion x360 Convertible 14m-ba000 ~ 14m-ba099 | follows | Feb. 9 2018
+| HP Pavilion x360 Convertible 15-ba000 ~ 15-ba099 | follows | Feb. 9 2018
+| HP Pavilion x360 Convertible 15-br000 ~ 15-br099 | follows | Feb. 9 2018
+| HP Pavilion x360 Convertible 15-br1xx, 15t-br100 | follows | Feb. 9 2018
+| HP Pavilion x360 m1 Convertible | follows | Feb. 9 2018
+| HP Slimline 270-p0xx Desktop PC | follows | Feb. 9 2018
+| HP Slimline 450-axx Desktop PC | follows | Feb. 9 2018
+| HP Spectre 13-h200 ~ 13-h299 x2 | follows | Feb. 9 2018
+| HP Spectre 13t-h200 | follows | Feb. 9 2018
+| HP Spectre 15-ch0xx | follows | Feb. 9 2018
+| HP Spectre Laptop 13-af0xx, 13-af5xx, 13t-af000, 13t-af500 | follows | Feb. 9 2018
+| HP Spectre Notebook 13-v000 ~ 13-v099 | follows | Feb. 9 2018
+| HP Spectre Pro x360 G2 | follows | Feb. 9 2018
+| HP Spectre x2 Detachable Convertible | follows | Feb. 9 2018
+| HP Spectre x360 Convertible 13 13-w000 ~ 13-w099 | follows | Feb. 9 2018
+| HP Spectre x360 Convertible 13-4000 ~ 13-4099 (Intel) | follows | Feb. 9 2018
+| HP Spectre x360 Convertible 13-ac000 ~ 13-ac099 | follows | Feb. 9 2018
+| HP Spectre x360 Convertible 15-ap000 ~ 15-ap099 (Intel) | follows | Feb. 9 2018
+| HP Spectre x360 Convertible 15-bl000 ~ 15-bl099 | follows | Feb. 9 2018
+| HP Stream 11 Pro G4 EE | follows | Feb. 9 2018
+| HP Stream 11-y0XX | follows | Feb. 9 2018
+| HP Stream 14 Pro G3 | follows | Feb. 9 2018
+| HP Stream 14-ax0XX | follows | Feb. 9 2018
+| HP Stream Mini Desktop 200-0xx | follows | Feb. 9 2018
+| HP TouchSmart 15-n100~199 | follows | Feb. 9 2018
+| OMEN by HP Laptop 15-ax200 ~ 15-ax299 | follows | Feb. 9 2018
+| OMEN by HP Laptop 15-ce000 ~ 15-ce099 | follows | Feb. 9 2018
+| OMEN by HP Laptop 17-w200 ~ 17-w299 | follows | Feb. 9 2018
+| OMEN X by HP 900-2xx | follows | Feb. 9 2018
+| OMEN X by HP Laptop 17-ap000 ~ 17-ap099 | follows | Feb. 9 2018
+| Star Wars™ Special Edition 15-an000-an099 | follows | Feb. 9 2018
+| Star Wars™ Special Edition 15t-an000 | follows | Feb. 9 2018
+
+# HPE
+| model | latest BIOS | release date | vulnerabilities mitigated ? |
+| --- | --- | --- | --- |
 | ProLiant ML10 Gen8 server | follows | | |
 | ProLiant ML310e Gen8 server | follows | | |
 | ProLiant MicroServer Gen8 | J06 | 2015/02/11 | no |
@@ -500,6 +762,8 @@ ASUS: https://www.asus.com/News/YQ3Cr4OYKdZTwnQK
 
 Dell: http://www.dell.com/support/article/us/en/04/sln308587/microprocessor-side-channel-vulnerabilities-cve-2017-5715-cve-2017-5753-cve-2017-5754-impact-on-dell-products?lang=en#Dell_Products_Affected
 
-HP: https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-a00039267en_us
+HPE: https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-a00039267en_us
+
+HP: https://support.hp.com/us-en/document/c05869091
 
 MSI: https://www.hardwareluxx.de/index.php/news/hardware/mainboards/45408-meltdown-asus-und-msi-stellen-bios-updates-fuer-z370-mainboards-bereit.html
