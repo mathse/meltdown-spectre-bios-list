@@ -726,6 +726,11 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | ProLiant ML10 v2 | follows | | |
 | ProLiant XL220a Gen8 v2 | follows | | |
 
+# Lenovo
+| model | latest BIOS | release date | vulnerabilities mitigated ? |
+| --- | --- | --- | --- |
+| 20HD005NGE | 13.12.2017 | 1.44 | yes |
+
 # MSI
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
