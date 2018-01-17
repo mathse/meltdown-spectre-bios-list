@@ -730,6 +730,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 # MSI
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
+| Z270 PC MATE | E7a72IMS.180 | ? | yes (not verified) |
 | Z370 Godlike Gaming | 7A98vA3 | ? | no |
 | Z370 Gaming M5 | 7B58v12 | ? | no |
 | Z370 Gaming Pro Carbon AC | 7B45vA3 | ? | no |
