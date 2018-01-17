@@ -25,7 +25,6 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 # ASUS
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
-| B9440UA | 308 | 2017/11/09 | no |
 | B9440UA | ? | Jan/E, 2018 | |
 | P2440UA | ? | Jan/E, 2018 | |
 | P2440UQ | ? | Jan/E, 2018 | |
