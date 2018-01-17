@@ -26,8 +26,56 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
 | B9440UA | 308 | 2017/11/09 | no |
+| B9440UA | ? | Jan/E, 2018 | |
+| P2440UA | ? | Jan/E, 2018 | |
+| P2440UQ | ? | Jan/E, 2018 | |
+| P2540UV | ? | Jan/E, 2018 | |
+| UX370UA | ? | Jan/E, 2018 | |
+| UX461UA | ? | Jan/E, 2018 | |
+| UX461UN | ? | Jan/E, 2018 | |
+| UX561UA | ? | Jan/E, 2018 | |
+| UX561UD | ? | Jan/E, 2018 | |
+| UX561UN | ? | Jan/E, 2018 | |
+| X510UA | ? | Jan/E, 2018 | |
+| X510UAR | ? | Jan/E, 2018 | |
+| X510UF | ? | Jan/E, 2018 | |
+| X510UN | ? | Jan/E, 2018 | |
+| X510UNR | ? | Jan/E, 2018 | |
+| X510UQ | ? | Jan/E, 2018 | |
+| X510UQR | ? | Jan/E, 2018 | |
+| X510UR | ? | Jan/E, 2018 | |
+| X510URR | ? | Jan/E, 2018 | |
+| X580VD | ? | Jan/E, 2018 | |
+| X580VN | ? | Jan/E, 2018 | |
 | Prime Z370-A | 0606 | ? | no |
 | Prime Z370-P | 0606 | ? | no |
+| D630MT | ? | Jan/E, 2018 | |
+| D630SF | ? | Jan/E, 2018 | |
+| D631MT | ? | Jan/E, 2018 | |
+| D830MT | ? | Jan/E, 2018 | |
+| D830SF | ? | Jan/E, 2018 | |
+| D831MT | ? | Jan/E, 2018 | |
+| GR8 II | ? | Jan/E, 2018 | |
+| E510 | ? | Jan/E, 2018 | |
+| E810 | ? | Jan/E, 2018 | |
+| E420 | ? | Jan/E, 2018 | |
+| E520 | ? | Jan/E, 2018 | |
+| VC65R | ? | Jan/E, 2018 | |
+| VC65 | ? | Jan/E, 2018 | |
+| VC66R | ? | Jan/E, 2018 | |
+| VC66D | ? | Jan/E, 2018 | |
+| VC66 | ? | Jan/E, 2018 | |
+| VC68V | ? | Jan/E, 2018 | |
+| VC68R | ? | Jan/E, 2018 | |
+| VM45 | ? | Jan/E, 2018 | |
+| VM65 | ? | Jan/E, 2018 | |
+| VM65N | ? | Jan/E, 2018 | |
+| VM65N | ? | Jan/E, 2018 | |
+| VM65 | ? | Jan/E, 2018 | |
+| UN65 | ? | Jan/E, 2018 | |
+| UN65H | ? | Jan/E, 2018 | |
+| UN65U | ? | Jan/E, 2018 | |
+| UN68U | ? | Jan/E, 2018 | |
 | ROG Maximus X Apex | follows | ? | |
 | ROG Maximus X Code | follows | ? | |
 | ROG Maximus X Formula | follows | ? | |
@@ -448,7 +496,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 
 # Vendor links
 
-ASUS: ?
+ASUS: https://www.asus.com/News/YQ3Cr4OYKdZTwnQK
 
 Dell: http://www.dell.com/support/article/us/en/04/sln308587/microprocessor-side-channel-vulnerabilities-cve-2017-5715-cve-2017-5753-cve-2017-5754-impact-on-dell-products?lang=en#Dell_Products_Affected
 
