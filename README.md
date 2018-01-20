@@ -92,16 +92,16 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 # Dell
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
-| Alienware 13 R2 | follows | 1/19/2018 |
+| Alienware 13 R2 | 1.4.4 | 1/19/2018 | yes (not verified)
 | Alienware 13 R3 | 1.2.3 | ? | no
-| Alienware 15 R2 | follows | 1/19/2018
+| Alienware 15 R2 | 1.4.4 | 1/19/2018 | yes (not verified)
 | Alienware 15 R3 | 1.2.3 | ? | no
-| Alienware 17 R2 | follows | 1/19/2018
+| Alienware 17 R2 | follows | 1/26/2018
 | Alienware 17 R4 | 1.2.3 | ? | no
 | Alienware Area-51 R2 | follows | ? |
-| Alienware Area-51 R4 | follows | 1/19/2018
-| Alienware Area-51 R5 | follows | 1/19/2018
-| Alienware Aurora R5 | follows | 1/19/2018
+| Alienware Area-51 R4 | 1.1.3 | 1/19/2018 | yes (not verified)
+| Alienware Area-51 R5 | follows | 1/26/2018
+| Alienware Aurora R5 | 1.0.16 | 1/19/2018
 | Alienware Aurora R6 | 1.0.12 | ? | no
 | Alienware Aurora R7 | follows | 1/31/2018
 | Alienware Steam Machine 200 | 2.0.10
@@ -155,7 +155,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Inspiron 17 2-in-1 (7779) | 1.22.3 | ? | no
 | Inspiron 17R (5737) | follows | In Process
 | Inspiron 20 (3064) | 2.2.2 | ? | no
-| Inspiron 20 AIO (3059) | follows | 1/19/2018
+| Inspiron 20 AIO (3059) | 2.8.1 | 1/19/2018 | yes (not verified)
 | Inspiron 22 (3263) | 1.7.0 | ? | no
 | Inspiron 22 AIO (3263) | 1.7.0 | ? | no
 | Inspiron 22 AIO (3264) | 2.2.2 | ? | no
@@ -176,12 +176,12 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Inspiron 3452 | follows | In Process
 | Inspiron 3458 | follows | In Process
 | Inspiron 3459 | 1.5.3 | ? | no
-| Inspiron 3462 | follows | 1/19/2018
-| Inspiron 3476 | follows | 1/19/2018
+| Inspiron 3462 | 1.9.2 | 1/17/2018  | yes (not verified)
+| Inspiron 3476 | follows | 1/26/2018
 | Inspiron 3537 | follows | In Process
 | Inspiron 3558 | follows | In Process
 | Inspiron 3559 | 1.5.3 | ? | no
-| Inspiron 3576 | follows | 1/19/2018
+| Inspiron 3576 | follows | 1/26/2018
 | Inspiron 3650 | 3.5.2 | ? | no
 | Inspiron 3662 | 2.5.0 | ? | no
 | Inspiron 3668 | 1.6.0 | ? | no
@@ -232,13 +232,13 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Latitude 3460 | A12 | ? | no
 | Latitude 3470 | 1.10.1 | ? | no
 | Latitude 3480 | 1.5.5 | ? | no
-| Latitude 3490 | follows | 1/19/2018
+| Latitude 3490 | follows | 1/26/2018
 | Latitude 3540 | follows | In Process
 | Latitude 3550 | A15 | ? | no
 | Latitude 3560 | A12 | ? | no
 | Latitude 3570 | 1.10.1 | ? | no
 | Latitude 3580 | 1.5.5 | ? | no
-| Latitude 3590 | follows | 1/19/2018
+| Latitude 3590 | follows | 1/26/2018
 | Latitude 5175 | 1.0.29 | ? | no
 | Latitude 5179 | 1.0.29 | ? | no
 | Latitude 5280 | 1.8.1 | ? | no
@@ -247,15 +247,15 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Latitude 5289 | 1.10.1 | ? | no
 | Latitude 5290 | 1.1.7 | ? | no
 | Latitude 5290 2-in-1 | 1.1.0 | ? | no
-| Latitude 5404 | follows | 1/19/2018
+| Latitude 5404 | A14 | 1/19/2018 | yes (not verified)
 | Latitude 5414 | 1.15.0 | ? | no
 | Latitude 5480 | 1.8.1 | ? | no
 | Latitude 5488 | 1.8.1 | ? | no
 | Latitude 5490 | 1.1.7 | ? | no
 | Latitude 5580 | 1.8.1 | ? | no
 | Latitude 5590 | 1.1.7 | ? | no
-| Latitude 7202 | follows | 1/19/2018
-| Latitude 7204 | follows | 1/19/2018
+| Latitude 7202 | A18 | 1/19/2018 | yes (not verified)
+| Latitude 7204 | A14 | 1/19/2018 | yes (not verified)
 | Latitude 7212 | 1.7.0 | ? | no
 | Latitude 7214 | 1.15.0 | ? | no
 | Latitude 7275 | 1.1.34 | ? | no
@@ -268,7 +268,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Latitude 7389 | 1.10.1 | ? | no
 | Latitude 7390 | 1.2.6 | ? | no
 | Latitude 7390 2-in-1 | 1.1.3 | ? | no
-| Latitude 7404 | follows | 1/19/2018
+| Latitude 7404 | A13 | 1/19/2018 | yes (not verified)
 | Latitude 7414 | 1.15.0 | ? | no
 | Latitude 7480 | 1.8.1 | ? | no
 | Latitude 7490 | 1.2.6 | ? | no
@@ -304,7 +304,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | OptiPlex 3011 AIO | follows | 1/19/2018
 | OptiPlex 3020 | A16 | 1/11/2018 | yes (verified)
 | OptiPlex 3020M | A11 | ? | no
-| OptiPlex 3030 | follows | 1/19/2018
+| OptiPlex 3030 | A11 | 1/19/2018
 | OptiPlex 3040 | 1.6.1 | 2018/01/09 | yes |
 | OptiPlex 3046 | 1.3.1 | ? | no
 | OptiPlex 3050 | 1.7.7 | ? | no
@@ -320,11 +320,11 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | OptiPlex 7440 AIO | 1.8.6 | ? | no
 | OptiPlex 7450 | 1.8.1 | ? | no
 | OptiPlex 9010 | A27 | ? | no
-| OptiPlex 9010 AIO | follows | 1/19/2018
+| OptiPlex 9010 AIO | follows | 1/31/2018
 | OptiPlex 9020 | A21 | ? | no
 | OptiPlex 9020 AIO | A16 | ? | no
 | OptiPlex 9020M | A15 | ? | no
-| OptiPlex 9030 | follows | 1/19/2018
+| OptiPlex 9030 | A18 | 1/19/2018 | yes (not verified)
 | OptiPlex XE2 | A21 | ? | no
 | Precision 3420 Tower | 2.6.1 | ? | no
 | Precision 3510 | 1.18.6 | ? | no
@@ -381,7 +381,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Vostro 3268 | 1.6.0 | ? | no
 | Vostro 3458 | follows | In Process
 | Vostro 3558 | follows | In Process
-| Vostro 3562 | follows | 1/19/2018
+| Vostro 3562 | follows | 1/26/2018
 | Vostro 3650 | 3.5.2 | ? | no
 | Vostro 3653 | 3.5.2 | ? | no
 | Vostro 3660 | 1.6.0 | ? | no
@@ -394,7 +394,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Vostro 5560 | follows | In Process
 | Vostro 7570 | 1.3.2 | ? | no
 | XPS 12 (9250) | 1.1.34 | ? | no
-| XPS 13 (9343) | follows | 1/19/2018
+| XPS 13 (9343) | A14 | 1/19/2018 | yes (not verified)
 | XPS 13 (9350) | 1.6.1 | ? | no
 | XPS 13 (9360) | 2.5.0 | ? | no
 | XPS 13 (9370) | 1.1.3 | ? | no
@@ -403,7 +403,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | XPS 15 (9560) | 1.7.0 | ? | no
 | XPS 27 AIO (7760) | 2.3.3 | ? | no
 | XPS 8900 | 2.2.1 | ? | no
-| XPS 8910 | follows | 1/19/2018
+| XPS 8910 | 1.1.5 | 1/19/2018 | yes (not verified)
 | XPS 8920 | 1.0.12 | ? | no
 | XPS 8930 | follows | 1/31/2018
 
