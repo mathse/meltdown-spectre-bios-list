@@ -110,16 +110,16 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | ChengMing 3967 | 1.2.2 | ? | no
 | ChengMing 3977 | 1.3.2 | ? | no
 | Dell Embedded Box PC 3000 | follows | In Process
-| Edge Gateway 3000 series | follows | In Process
-| Edge Gateway 5000 (Commercial) | follows | In Process
-| Edge Gateway 5100 (Industrial) | follows | In Process
+| Edge Gateway 3000 series | follows | 2/2/2018
+| Edge Gateway 5000 (Commercial) | follows | 2/2/2018
+| Edge Gateway 5100 (Industrial) | follows | 2/2/2018
 | Embedded Box PC 5000 | 1.4.2 | ? | no
 | Enterprise Server T20 | A15 | ? | no
 | Enterprise Server T30 | 1.0.12 | ? | no
-| Inspiron 11 (3137) SFX Platform  | follows | In Process
-| Inspiron 11 (3153) | 1.18.2 | ? | no
-| Inspiron 11 (3158) | 1.18.2 | ? | no
-| Inspiron 11 (3162)  | follows | In Process
+| Inspiron 11 (3137) SFX Platform | follows | In Process
+| Inspiron 11 2-in-1 (3153) | 1.18.2 | ? | no
+| Inspiron 11 2-in-1 (3158) | 1.18.2 | ? | no
+| Inspiron 11 (3162) | follows | In Process
 | Inspiron 11 (3164) | follows | In Process
 | Inspiron 11 (3168) | follows | In Process
 | Inspiron 13 2-in-1 (5368) | 1.15.2 | ? | no
@@ -132,16 +132,16 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Inspiron 14 (5468) | 1.4.2 | ? | no
 | Inspiron 14 (7437) | follows | In Process
 | Inspiron 14 (7460) | 1.4.2 | ? | no
-| Inspiron 14 (7466) | 1.2.1 | ? | no
-| Inspiron 14 (7467) | 1.4.0 | ? | no
+| Inspiron 14 Gaming (7466) | 1.2.1 | ? | no
+| Inspiron 14 Gaming (7467) | 1.4.0 | ? | no
 | Inspiron 15 (3567) | 2.1.3 | ? | no
 | Inspiron 15 (3568) | 1.8.3 | ? | no
 | Inspiron 15 (5566) | 1.4.2 | ? | no
 | Inspiron 15 (5567) | 1.1.9 | ? | no
 | Inspiron 15 (7537) | follows | In Process
 | Inspiron 15 (7560) | 1.4.2 | ? | no
-| Inspiron 15 (7566) | 1.2.1 | ? | no
-| Inspiron 15 (7567) | 1.4.0 | ? | no
+| Inspiron 15 Gaming (7566) | 1.2.1 | ? | no
+| Inspiron 15 Gaming (7567) | 1.4.0 | ? | no
 | Inspiron 15 2-in-1 (5568) | 1.15.2 | ? | no
 | Inspiron 15 2-in-1 (5578) | 1.22.3 | ? | no
 | Inspiron 15 2-in-1 (5579) | 1.3.2 | ? | no
@@ -154,33 +154,33 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Inspiron 17 2-in-1 (7778) | 1.15.2 | ? | no
 | Inspiron 17 2-in-1 (7779) | 1.22.3 | ? | no
 | Inspiron 17R (5737) | follows | In Process
-| Inspiron 20 (3064) | 2.2.2 | ? | no
+| Inspiron 20 AIO (3064) | 2.2.2 | ? | no
 | Inspiron 20 AIO (3059) | 2.8.1 | 1/19/2018 | yes (not verified)
 | Inspiron 22 (3263) | 1.7.0 | ? | no
 | Inspiron 22 AIO (3263) | 1.7.0 | ? | no
 | Inspiron 22 AIO (3264) | 2.2.2 | ? | no
 | Inspiron 23 (5348) | A09 | ? | no
 | Inspiron 2350 | follows | In Process
-| Inspiron 24 (3459) | follows | 1/19/2018
+| Inspiron 24 AIO (3459) | 2.8.1 | 1/19/2018 | yes (not verified)
 | Inspiron 24 AIO (3464) | 2.2.2 | ? | no
 | Inspiron 24 AIO (5459) | 2.8.0 | ? | no
 | Inspiron 24 AIO (5488) | 2.4.2 | ? | no
-| Inspiron 3052 | follows | In Process
+| Inspiron 20 AIO (3052) | follows | In Process
 | Inspiron 3147 | follows | In Process
 | Inspiron 3148 | follows | In Process
-| Inspiron 3169 | 1.4.0 | ? | no
-| Inspiron 3179 | 1.3.3 | ? | no
+| Inspiron 11 (3169) | 1.4.0 | ? | no
+| Inspiron 11 (3179) | 1.3.3 | ? | no
 | Inspiron 3250 | 3.5.2 | ? | no
 | Inspiron 3252 | follows | In Process
 | Inspiron 3268 | 1.6.0 | ? | no
-| Inspiron 3452 | follows | In Process
+| Inspiron 24 AIO (3452) | follows | In Process
 | Inspiron 3458 | follows | In Process
-| Inspiron 3459 | 1.5.3 | ? | no
-| Inspiron 3462 | 1.9.2 | 1/17/2018  | yes (not verified)
+| Inspiron 14 (3459) | 1.5.3 | ? | no
+| Inspiron 14 (3462) | 1.9.2 | 1/17/2018 | yes (not verified)
 | Inspiron 3476 | follows | 1/26/2018
 | Inspiron 3537 | follows | In Process
 | Inspiron 3558 | follows | In Process
-| Inspiron 3559 | 1.5.3 | ? | no
+| Inspiron 15 (3559) | 1.5.3 | ? | no
 | Inspiron 3576 | follows | 1/26/2018
 | Inspiron 3650 | 3.5.2 | ? | no
 | Inspiron 3662 | 2.5.0 | ? | no
@@ -200,34 +200,34 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Inspiron 5558 | follows | In Process
 | Inspiron 5559 | 1.4.1 | ? | no
 | Inspiron 5570 | 1.0.9 | ? | no
-| Inspiron 5577 | 1.0.8 | ? | no
+| Inspiron 15 Gaming (5577) | 1.0.8 | ? | no
 | Inspiron 5758 | follows | In Process
 | Inspiron 5759 | 1.4.1 | ? | no
 | Inspiron 5770 | 1.0.9 | ? | no
 | Inspiron 7347 | follows | In Process
-| Inspiron 7348 2-in-1 | follows | In Process
-| Inspiron 7353 | 1.18.2 | ? | no
-| Inspiron 7359 | 1.18.2 | ? | no
+| Inspiron 13 2-in-1 (7348) | follows | In Process
+| Inspiron 13 2-in-1 (7353) | 1.18.2 | ? | no
+| Inspiron 13 2-in-1 (7359) | 1.18.2 | ? | no
 | Inspiron 7370 | 1.5.4 | ? | no
-| Inspiron 7373 | 1.5.4 | ? | no
-| Inspiron 7459 | 1.7.1 | ? | no
+| Inspiron 13 2-in-1 (7373) | 1.5.4 | ? | no
+| Inspiron 24 AIO (7459) | 1.7.1 | ? | no
 | Inspiron 7472 | 1.1.0 | ? | no
-| Inspiron 7559 | 1.2.7 | ? | no
-| Inspiron 7568 | 1.18.2 | ? | no
+| Inspiron 15 (7559) | 1.2.7 | ? | no
+| Inspiron 15 2-in-1 (7568) | 1.18.2 | ? | no
 | Inspiron 7570 | 1.5.4 | ? | no
-| Inspiron 7572 | 1.1.0 | ? | no
-| Inspiron 7573 | 1.5.4 | ? | no
-| Inspiron 7577 | 1.3.2 | ? | no
+| Inspiron 15 (7572) | 1.1.0 | ? | no
+| Inspiron 15 2-in-1 (7573) | 1.5.4 | ? | no
+| Inspiron 15 Gaming (7577) | 1.3.2 | ? | no
 | Latitude 3150 | follows | In Process
 | Latitude 3160 | follows | In Process
-| Latitude 3180 | follows | 1/18/2018
-| Latitude 3189 | follows | 1/18/2018
+| Latitude 3180 | follows | 1/26/2018
+| Latitude 3189 | follows | 1/26/2018
 | Latitude 3330 | follows | In Process
 | Latitude 3340 | A15 | 1/12/2018 | yes
 | Latitude 3350 | A12 | ? | no
 | Latitude 3379 | 1.0.21 | ? | no
 | Latitude 3380 | 1.3.5 | ? | no
-| Latitude 3390 2-in-1 | follows | 1/18/2018
+| Latitude 3390 2-in-1 | follows | 1/26/2018
 | Latitude 3450 | A15 | ? | no
 | Latitude 3460 | A12 | ? | no
 | Latitude 3470 | 1.10.1 | ? | no
@@ -255,7 +255,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Latitude 5580 | 1.8.1 | ? | no
 | Latitude 5590 | 1.1.7 | ? | no
 | Latitude 7202 | A18 | 1/19/2018 | yes (not verified)
-| Latitude 7204 | A14 | 1/19/2018 | yes (not verified)
+| Latitude 7204 | A12 | 1/10/2018 | yes (not verified)
 | Latitude 7212 | 1.7.0 | ? | no
 | Latitude 7214 | 1.15.0 | ? | no
 | Latitude 7275 | 1.1.34 | ? | no
@@ -319,7 +319,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | OptiPlex 7050 | 1.7.7 | 1/9/2018 | yes (verified)
 | OptiPlex 7440 AIO | 1.8.6 | ? | no
 | OptiPlex 7450 | 1.8.1 | ? | no
-| OptiPlex 9010 | A27 | ? | no
+| OptiPlex 9010 | A27 | follows | no
 | OptiPlex 9010 AIO | follows | 1/31/2018
 | OptiPlex 9020 | A21 | ? | no
 | OptiPlex 9020 AIO | A16 | ? | no
@@ -353,7 +353,8 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Precision M6800 | A21 | ? | no
 | Precision R7610 | A15 | ? | no
 | Precision Rack 7910 | 2.7.0 | ? | no
-| Precision T1650 | A25 | ? | no
+| Precision Rack 7920 | 1.2.71 | ? | yes (not verified)
+| Precision T1650 | A25 | follows | no
 | Precision T1700 | A24 | ? | no
 | Precision T3610 | A15 | ? | no
 | Precision T5610 | A15 | ? | no
@@ -381,7 +382,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Vostro 3268 | 1.6.0 | ? | no
 | Vostro 3458 | follows | In Process
 | Vostro 3558 | follows | In Process
-| Vostro 3562 | follows | 1/26/2018
+| Vostro 15 (3562) | follows | 1/26/2018
 | Vostro 3650 | 3.5.2 | ? | no
 | Vostro 3653 | 3.5.2 | ? | no
 | Vostro 3660 | 1.6.0 | ? | no
@@ -392,7 +393,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Vostro 5459 | 1.1.3 | ? | no
 | Vostro 5471 | 1.3.1 | ? | no
 | Vostro 5560 | follows | In Process
-| Vostro 7570 | 1.3.2 | ? | no
+| Vostro 15 (7570) | 1.3.2 | ? | no
 | XPS 12 (9250) | 1.1.34 | ? | no
 | XPS 13 (9343) | A14 | 1/19/2018 | yes (not verified)
 | XPS 13 (9350) | 1.6.1 | ? | no
@@ -410,38 +411,38 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 # HP
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
-| HP 21-h0xx PC | 80.18 | SP84417 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84417.exe
-| HP 23-g0xx PC | 80.18 | SP84417 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84417.exe
-| HP ENVY 15-q2xx | F.27 | SP84431 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84431.exe
-| HP ENVY 23-nxxx All-in-One PC Beats SE | 80.13 | SP84254 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84254.exe
-| HP ENVY 750-6xx | F.10 | SP84331 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84331.exe
-| HP ENVY Curved 34-a0xx All-in-One PC | A0.09 | SP84375 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84375.exe
-| HP ENVY Laptop 13-ad000 ~ 13-ad099 | F.19 | SP84431 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84431.exe
-| HP ENVY Laptop 13-ad1xx, 13t-ad100 | F.19 | SP84332 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84332.exe
-| HP ENVY Laptop 17-ae1xx, 17t-ae100, 17m-ae1xx | F.19 | SP84333 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84333.exe
-| HP ENVY Notebook 17-u2xx, 17t-u200 | F.11 | SP84207 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84207.exe
-| HP ENVY x360 Convertible 15-bp000 ~ 15-bp099 | F.33 | SP84242 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84242.exe
-| HP ENVY x360 Convertible 15m-bp000 ~ 15m-bp099 | F.33 | SP84242 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84242.exe
-| HP ENVY x360 Convertible 15-w200 ~ 15-w299 | F.31 | sp84223 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84223.exe
-| HP ENVY 750-4xx Desktop PC | F.40 | SP84196 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84196.exe
-| HP ENVY 750-5xxPC Desktop PC | F.21 | SP84435 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84435.exe
-| HP Notebook 13-s000 ~ 13-s099 | F.23 | SP84430 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84430.exe
-| HP Notebook PC 11-aa0XX | F.14 | SP84332 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84332.exe
-| HP Notebook PC 11-ab0XX | F.14 | SP84332 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84332.exe
-| HP Pavilion 13-a000 ~ 13-a099 x360 | F.38 | SP84429 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84429.exe
-| HP Pavilion 13-b000 ~ 13-b099 | F.38 | SP84429 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84429.exe
-| HP Pavilion 13t-a0XX x360 | F.38 | SP84429 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84429.exe
-| HP Pavilion 13t-b0XX | F.38 | SP84429 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84429.exe
-| HP Pavilion 23-p0xx All-in-One PC | 80.18 | SP84417 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84417.exe
-| HP Pavilion Laptop 14-bf0xx, 14t-bf000 | F.32 | SP84206 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84206.exe
-| HP Pavilion Laptop 15-ck0xx, 15t-ck000 | F.04 | SP84210 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84210.exe
-| HP Pavilion Notebook 15-bc200 ~ 15-bc299 | F.44 | SP84432 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84432.exe
-| HP Spectre Notebook 13-v100 ~ 13-v199 | F.38 | SP84333 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84333.exe
-| HP Spectre x2 Detachable 12-c000 ~ 12-c099 | F.12 | SP84208 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84208.exe
-| HP Spectre x360 Convertible 13-ae0xx, 13-ae5xx, 13t-ae000, 13t-ae500 | F.12 | SP84314 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84314.exe
-| HP Spectre x360 Convertible 15-bl1xx, 15t-bl100 | F.32 | SP84378 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84378.exe
-| OMEN by HP Laptop 17-an000 ~ 17-an099 | F.11 | sp84223 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84223.exe
-| OMEN X VR PC Pack | F.11 | SP84360 |  | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84360.exe
+| HP 21-h0xx PC | 80.18 | SP84417 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84417.exe
+| HP 23-g0xx PC | 80.18 | SP84417 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84417.exe
+| HP ENVY 15-q2xx | F.27 | SP84431 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84431.exe
+| HP ENVY 23-nxxx All-in-One PC Beats SE | 80.13 | SP84254 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84254.exe
+| HP ENVY 750-6xx | F.10 | SP84331 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84331.exe
+| HP ENVY Curved 34-a0xx All-in-One PC | A0.09 | SP84375 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84375.exe
+| HP ENVY Laptop 13-ad000 ~ 13-ad099 | F.19 | SP84431 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84431.exe
+| HP ENVY Laptop 13-ad1xx, 13t-ad100 | F.19 | SP84332 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84332.exe
+| HP ENVY Laptop 17-ae1xx, 17t-ae100, 17m-ae1xx | F.19 | SP84333 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84333.exe
+| HP ENVY Notebook 17-u2xx, 17t-u200 | F.11 | SP84207 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84207.exe
+| HP ENVY x360 Convertible 15-bp000 ~ 15-bp099 | F.33 | SP84242 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84242.exe
+| HP ENVY x360 Convertible 15m-bp000 ~ 15m-bp099 | F.33 | SP84242 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84242.exe
+| HP ENVY x360 Convertible 15-w200 ~ 15-w299 | F.31 | sp84223 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84223.exe
+| HP ENVY 750-4xx Desktop PC | F.40 | SP84196 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84196.exe
+| HP ENVY 750-5xxPC Desktop PC | F.21 | SP84435 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84435.exe
+| HP Notebook 13-s000 ~ 13-s099 | F.23 | SP84430 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84430.exe
+| HP Notebook PC 11-aa0XX | F.14 | SP84332 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84332.exe
+| HP Notebook PC 11-ab0XX | F.14 | SP84332 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84332.exe
+| HP Pavilion 13-a000 ~ 13-a099 x360 | F.38 | SP84429 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84429.exe
+| HP Pavilion 13-b000 ~ 13-b099 | F.38 | SP84429 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84429.exe
+| HP Pavilion 13t-a0XX x360 | F.38 | SP84429 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84429.exe
+| HP Pavilion 13t-b0XX | F.38 | SP84429 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84429.exe
+| HP Pavilion 23-p0xx All-in-One PC | 80.18 | SP84417 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84417.exe
+| HP Pavilion Laptop 14-bf0xx, 14t-bf000 | F.32 | SP84206 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84206.exe
+| HP Pavilion Laptop 15-ck0xx, 15t-ck000 | F.04 | SP84210 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84210.exe
+| HP Pavilion Notebook 15-bc200 ~ 15-bc299 | F.44 | SP84432 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84432.exe
+| HP Spectre Notebook 13-v100 ~ 13-v199 | F.38 | SP84333 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84333.exe
+| HP Spectre x2 Detachable 12-c000 ~ 12-c099 | F.12 | SP84208 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84208.exe
+| HP Spectre x360 Convertible 13-ae0xx, 13-ae5xx, 13t-ae000, 13t-ae500 | F.12 | SP84314 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84314.exe
+| HP Spectre x360 Convertible 15-bl1xx, 15t-bl100 | F.32 | SP84378 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84378.exe
+| OMEN by HP Laptop 17-an000 ~ 17-an099 | F.11 | sp84223 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84223.exe
+| OMEN X VR PC Pack | F.11 | SP84360 | | http://ftp.hp.com/pub/softpaq/sp84001-84500/sp84360.exe
 | Compaq 100-0xx Desktop PC | follows | Feb. 9 2018
 | Compaq 14-s000 thru 14-s099 (Intel) | follows | Feb. 9 2018
 | Compaq 14-s000 thru 14-s099 TouchSmart (Intel) | follows | Feb. 9 2018
