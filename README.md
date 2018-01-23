@@ -11,7 +11,7 @@ to have a parseable list for all my hardware
 
 ## linux
 ```
-curl -s https://raw.githubusercontent.com/mathse/meltdown-spectre-bios-list/master/README.md | grep "$(cat /sys/devices/virtual/dmi/id/board_name)"
+curl -s https://raw.githubusercontent.com/mathse/meltdown-spectre-bios-list/master/README.md | grep "$(cat /sys/devices/virtual/dmi/id/product_name)"
 ```
 
 ## windows - powershell 3.0 or above
