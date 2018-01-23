@@ -215,7 +215,213 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Aspire Z3-711 | R01-A2S0 | Feb, 2018 | |
 | Aspire Z3-715 | R01-A3S1 (Skylake) | Feb, 2018 | |
 | Aspire Z3-715 | R02-A4 (Kaby Lake) | Feb, 2018 | |
-
+| Extensa EX2540 | 1.33 | Jan, 2018 | |
+| Extensa M2710 | ? | Mar, 2018 | |
+| Extensa M2711 | ? | Mar, 2018 | |
+| Extensa X2710 | ? | Mar, 2018 | |
+| Extensa X2711 | ? | Mar, 2018 | |
+| Founder Shangqi N680_60 | ? | Feb, 2018 | |
+| Founder Shangqi G8_60 | ? | Feb, 2018 | |
+| Founder Shangqi A420_56  | AAP03WBS0 | In Progress | |
+| Founder Shangqi A425_67  | R01-A3S1 | In Progress | |
+| Founder Shangqi D430_60 | ? | Mar, 2018 | |
+| Founder Shangqi D630_61 | ? | Mar, 2018 | |
+| Founder Shangqi D830_62 | ? | Mar, 2018 | |
+| Gateway DX4995 | R01-A1S1 | In Progress | |
+| Gateway DX4996 | R02-B1 (Kaby Lake) | Feb, 2018 | |
+| Gateway GW312-31 | ? | In Progress | |
+| Gateway NE527 | 1.33 | Jan, 2018 | |
+| Gateway NE533 | 1.15 | Jan, 2018 | |
+| Gateway NE573 | 1.38 | In Progress | |
+| Gateway NE574 | 1.33 | Mar, 2018 | |
+| Gateway SX2995 | ? (Skylake) | In Progress | |
+| Gateway SX2995 | R02-B1 (Kaby lake) | Feb, 2018 | |
+| Nitro AN515-31 | ? | In Progress | |
+| Nitro AN515-51 | ? | In Progress | |
+| Nitro AN515-52 | ? | In Progress | |
+| Nitro AN515-53 | ? | In Progress | |
+| Nitro NP515-51 | 1.04 | In Progress | |
+| Packard Bell EasyNote LG81AP | 1.15 | In Progress | |
+| Packard Bell EasyNote TE69AP | 1.15 | Jan, 2018 | |
+| Packard Bell EasyNote TE69SK | 1.15 | Jan, 2018 | |
+| Packard Bell iMedia S2291 | ? | In Progress | |
+| Packard Bell iMedia S2984 | ? | In Progress | |
+| Packard Bell iMedia S2995 | R01-A1S1 (Skylake) | In Progress | |
+| Packard Bell iMedia S2995 | R02-B1 (Kaby Lake) | In Progress | |
+| Packard Bell iMedia S3330 | ? | In Progress | |
+| Packard Bell iMedia S3740 | ? | In Progress | |
+| Packard Bell oneTwo S3380 | ? | In Progress | |
+| Packard Bell oneTwo S3480 | ? | In Progress | |
+| Packard Bell oneTwo S3481 | ? | In Progress | |
+| Predator AG3-710 | R01-A4S2 (Skylake) | In Progress | |
+| Predator AG3-710 | R02-B1 (Kaby Lake) | Feb, 2018 | |
+| Predator AG6-710 | R01-A4S2 | In Progress | |
+| Predator G3-571 | ? | In Progress | |
+| Predator G3-572 | ? | In Progress | |
+| Predator G3-573 | ? | In Progress | |
+| Predator G5-793 | 1.14 | Mar, 2018 | |
+| Predator G6-710 | R02-B0S0 (Kaby Lake) | In Progress | |
+| Predator G6-720 | R02-A3S0 | In Progress | |
+| Predator G9-593 | 1.14 | Mar, 2018 | |
+| Predator G9-793 | 1.14 | Mar, 2018 | |
+| Predator GX21-71 | 1.04 | Feb, 2018 | |
+| Predator GX-792 | 1.08 | Mar, 2018 | |
+| Predator PO9-100 | ? | In Progress | |
+| Predator PO9-900 | ? | Mar, 2018 | |
+| Predator PH315-51 | ? | In Progress | |
+| Predator PH315-52 | ? | In Progress | |
+| Predator PH317-51 | ? | In Progress | |
+| Predator PH317-52 | ? | In Progress | |
+| Predator PH517-51 | ? | In Progress | |
+| Predator PT715-51 | 1.07 | Mar, 2018 | |
+| Revo N76 | ? | Mar, 2018 | |
+| Shangqi A4660_72 | R02-B3 | Feb, 2018 | |
+| Shangqi N4660_60 | ? | Feb, 2018 | |
+| Shangqi V4220_73 | ? | Feb, 2018 | |
+| Shangqi X4653_63 | ? | Mar, 2018 | |
+| Spin SP111-31 | 1.09 | In Progress | |
+| Spin SP111-31N | 1.09 | In Progress | |
+| Spin SP111-32N | ? | In Progress | |
+| Spin SP314-51 | 1.02 | In Progress | |
+| Spin SP513-51 | 1.13 | In Progress | |
+| Spin SP513-51N | 1.13 | In Progress | |
+| Spin SP513-52N | 1.03 | In Progress | |
+| Spin SP515-51GN | 1.04 | In Progress | |
+| Spin SP515-51N | 1.04 | In Progress | |
+| Spin SP714-51 | 1.16 | In Progress | |
+| Swift S30-20 | 1.09 | Feb, 2018 | |
+| Swift SF113-31 | 1.10 | Feb, 2018 | |
+| Swift SF314-52 | 1.09 | Feb, 2018 | |
+| Swift SF314-52G | 1.09 | Feb, 2018 | |
+| Swift SF314-53 | 1.09 | Feb, 2018 | |
+| Swift SF314-53G | 1.09 | Feb, 2018 | |
+| Swift SF315-51 | 1.07 | Feb, 2018 | |
+| Swift SF315-51G | 1.07 | Feb, 2018 | |
+| Swift SF514-51 | 1.14 | Jan, 2018 | |
+| Swift SF514-52T | 1.03 | In Progress | |
+| Swift SF713-51 | 1.16 | Mar, 2018 | |
+| Swift SF714-51T | ? | In Progress | |
+| Switch Alpha A20-10 | ? | In Progress | |
+| Switch Alpha SA5-271 | ? | In Progress | |
+| Switch Alpha SA5-271P | ? | In Progress | |
+| Switch SW312-31 | ? | In Progress | |
+| Switch SW312-31P | ? | In Progress | |
+| Switch SW512-52 | 1.05 | Feb, 2018 | |
+| Switch SW512-52P | 1.05 | Feb, 2018 | |
+| Switch SW713-51GN | 1.03 | In Progress | |
+| Switch SW713-51GNP | 1.03 | In Progress | |
+| TravelMate B118-R | 1.08 | Feb, 2018 | |
+| TravelMate B118-RN | 1.08 | Feb, 2018 | |
+| TravelMate P238-G2-M | 1.08 | In Progress | |
+| TravelMate P238-M | 1.12 | In Progress | |
+| TravelMate P2410-G2-M | 1.03 | Feb, 2018 | |
+| TravelMate P2410-G2-MG | 1.03 | Feb, 2018 | |
+| TravelMate P2410-M | 1.03 | Feb, 2018 | |
+| TravelMate P2410-MG | 1.03 | Feb, 2018 | |
+| TravelMate P249-G2-M | 1.22 | Mar, 2018 | |
+| TravelMate P249-G2-MG | 1.22 | Mar, 2018 | |
+| TravelMate P249-M | 1.22 | Mar, 2018 | |
+| TravelMate P249-MG | 1.22 | Mar, 2018 | |
+| TravelMate P2510-G2-M | 1.03 | Feb, 2018 | |
+| TravelMate P2510-G2-MG | 1.03 | Feb, 2018 | |
+| TravelMate P2510-M | 1.03 | Feb, 2018 | |
+| TravelMate P2510-MG | 1.03 | Feb, 2018 | |
+| TravelMate P259-G2-M | 1.33 | Mar, 2018 | |
+| TravelMate P259-G2-MG | 1.33 | Mar, 2018 | |
+| TravelMate P259-M | 1.33 | Mar, 2018 | |
+| TravelMate P259-MG | 1.33 | Mar, 2018 | |
+| TravelMate P278-M | 1.12 | In Progress | |
+| TravelMate P278-MG | 1.12 | In Progress | |
+| TravelMate P449-G2-M | 1.12 | Mar, 2018 | |
+| TravelMate P449-G2-MG | 1.12 | Mar, 2018 | |
+| TravelMate P449-G3-M | 1.12 | Mar, 2018 | |
+| TravelMate P449-G3-MG | 1.12 | Mar, 2018 | |
+| TravelMate P449-M | 1.12 | Mar, 2018 | |
+| TravelMate P449-MG | 1.12 | Mar, 2018 | |
+| TravelMate P459-G2-M | 1.12 | Feb, 2018 | |
+| TravelMate P459-G2-MG | 1.12 | Feb, 2018 | |
+| TravelMate P459-M | 1.12 | Feb, 2018 | |
+| TravelMate P459-MG | 1.12 | Feb, 2018 | |
+| TravelMate P648-G2-M | 1.09 | Jan, 2018 | |
+| TravelMate P648-G2-MG | 1.09 | Jan, 2018 | |
+| TravelMate P648-G3-M | 1.09 | Jan, 2018 | |
+| TravelMate P648-M | 1.23 | Jan, 2018 | |
+| TravelMate P648-MG | 1.23 | Jan, 2018 | |
+| TravelMate P648-V | 1.23 | Jan, 2018 | |
+| TravelMate P648-VG | 1.23 | Jan, 2018 | |
+| TravelMate P658-G2-M | 1.23 | Jan, 2018 | |
+| TravelMate P658-G2-MG | 1.23 | Jan, 2018 | |
+| TravelMate P658-G3-M | 1.23 | Jan, 2018 | |
+| TravelMate P658-M | 1.23 | Jan, 2018 | |
+| TravelMate P658-MG | 1.23 | Jan, 2018 | |
+| TravelMate TX40-G1 | 1.22 | Mar, 2018 | |
+| TravelMate TX40-G2 | 1.22 | Mar, 2018 | |
+| TravelMate TX50-G1 | 1.33 | Mar, 2018 | |
+| TravelMate TX50-G2 | 1.33 | Mar, 2018 | |
+| TravelMate X349-G2-M | 1.12 | Feb, 2018 | |
+| TravelMate X349-M | 1.12 | Feb, 2018 | |
+| TravelMate Z5-502MT-G | 1.33 | Mar, 2018 | |
+| TravelMate Z5-502MT-U | 1.33 | Mar, 2018 | |
+| Veriton A420_56 | FAP02WRS0 | Feb, 2018 | |
+| Veriton A425_67 | R02-A3 | Feb, 2018 | |
+| Veriton A450_56 | FAP02WRS0 | Feb, 2018 | |
+| Veriton A450_67 | R02-A3 | Feb, 2018 | |
+| Veriton A880_71 | R02-B1 | Feb, 2018 | |
+| Veriton B430_63 | ? | Mar, 2018 | |
+| Veriton B830_65 | ? | Mar, 2018 | |
+| Veriton C650_59 | AAP04WRS0 | Feb, 2018 | |
+| Veriton C650_66 | R01-A2S0 | Feb, 2018 | |
+| Veriton C650_74 | R01-A2S0 | Feb, 2018 | |
+| Veriton D430_60 | R02-A4 | Mar, 2018 | |
+| Veriton D630_61 | ? | Mar, 2018 | |
+| Veriton D630_78 | ? | Mar, 2018 | |
+| Veriton ES2710G | ? | Feb, 2018 | |
+| Veriton F4600G | ? | Mar, 2018 | |
+| Veriton F6600G | ? | Mar, 2018 | |
+| Veriton M2640 | ? (Kaby Lake) | Feb, 2018 | |
+| Veriton M2640 | ? (Skylake) | Mar, 2018 | |
+| Veriton M2640G | ? (Kaby Lake) | Feb, 2018 | |
+| Veriton M2640G | ? (Skylake) | Mar, 2018 | |
+| Veriton M4620G | ? | Feb, 2018 | |
+| Veriton M4630G | ? | Feb, 2018 | |
+| Veriton M4640G | R01-B3S2 | Feb, 2018 | |
+| Veriton M4650G | ? | Feb, 2018 | |
+| Veriton M6640G | R01-B3S2 | Feb, 2018 | |
+| Veriton M6650G | ? | Mar, 2018 | |
+| Veriton N2510G | ? | In Progress | |
+| Veriton N4630G | P11-A3S0 | In Progress | |
+| Veriton N4640G | ? (Skylake) | In Progress | |
+| Veriton N4640G | R02-A4 (Kaby Lake) | Feb, 2018 | |
+| Veriton N4660G | ? | Feb, 2018 | |
+| Veriton N6640G | ? (Skylake) | In Progress | |
+| Veriton N6640G | R02-A2 (Kaby Lake) | Feb, 2018 | |
+| Veriton N6660G | ? | Feb, 2018 | |
+| Veriton S2660G | ? | In Progress | |
+| Veriton T430_60 | ? | Mar, 2018 | |
+| Veriton T630_61 | ? | Mar, 2018 | |
+| Veriton T830_62 | ? | Mar, 2018 | |
+| Veriton T830_79 | ? | Mar, 2018 | |
+| Veriton X2640 | ? (Skylake) | Mar, 2018 | |
+| Veriton X2640 | ? (Kaby Lake) | Feb, 2018 | |
+| Veriton X2640G | ? (Skylake) | Mar, 2018 | |
+| Veriton X2640G | ? (Kaby Lake) | Feb, 2018 | |
+| Veriton X2660G | ? | In Progress | |
+| Veriton X4210 | ? | In Progress | |
+| Veriton X4210G | ? | In Progress | |
+| Veriton X4620G | ? | Feb, 2018 | |
+| Veriton X4630G | ? | Feb, 2018 | |
+| Veriton X4640G | ? (Skylake) | Mar, 2018 | |
+| Veriton X4650G | ? | Mar, 2018 | |
+| Veriton X6640G | ? (Skylake) | Mar, 2018 | |
+| Veriton X6650G | ? | Mar, 2018 | |
+| Veriton Z4640G | R01-B2S2 (Skylake) | In Progress | |
+| Veriton Z4640G | R02-B3 (Kaby Lake) | Feb, 2018 | |
+| Veriton Z4710G | P11-A2S0 | In Progress | |
+| Veriton Z4720G | R01-A1S1 (Skylake) | Feb, 2018 | |
+| Veriton Z4720G | ? (Kaby Lake) | Feb, 2018 | |
+| Veriton Z4820G | R01-B2S3 (Skylake) | In Progress | |
+| Veriton Z4820G | R02-B3 (Kaby Lake) | Feb, 2018 | |
+| Veriton Z6820G | R01-B4 | Feb, 2018 | |
 
 # Dell
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
