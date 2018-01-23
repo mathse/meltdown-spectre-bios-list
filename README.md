@@ -1103,6 +1103,8 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 
 # Vendor links
 
+Acer: https://us.answers.acer.com/app/answers/detail/a_id/53104/~/meltdown-and-spectre-security-vulnerabilities#_ga=2.64109743.1091021125.1516697181-567417933.1516697181
+
 ASUS: https://www.asus.com/News/YQ3Cr4OYKdZTwnQK
 
 Dell: http://www.dell.com/support/article/us/en/04/sln308587/microprocessor-side-channel-vulnerabilities-cve-2017-5715-cve-2017-5753-cve-2017-5754-impact-on-dell-products?lang=en#Dell_Products_Affected
