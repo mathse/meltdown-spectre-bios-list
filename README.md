@@ -89,6 +89,134 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | TUF Z370-Plus Gaming | 0606 | ? | no |
 | TUF Z370-Pro Gaming | follows | ? | |
 
+# ACER
+| model | latest BIOS | release date | vulnerabilities mitigated ? |
+| --- | --- | --- | --- |
+| Aspire A111-31 | 1.05 | Feb, 2018 | |
+| Aspire A114-31 | 1.10 | Feb, 2018 | |
+| Aspire A114-32 | 1.07 | Feb, 2018 | |
+| Aspire A311-31 | 1.05 | Feb, 2018 | |
+| Aspire A314-31 | 1.10 | Feb, 2018 | |
+| Aspire A314-32 | 1.07 | Feb, 2018 | |
+| Aspire A315-31 | 1.10 | Feb, 2018 | |
+| Aspire A315-32 | 1.07 | Feb, 2018 | |
+| Aspire A315-51 | 1.07 | Feb, 2018 | |
+| Aspire A315-52 | 1.07 | Feb, 2018 | |
+| Aspire A515-51 | ? | In Progress | |
+| Aspire A515-51G | ? | In Progress | |
+| Aspire A517-51 | ? | In Progress | |
+| Aspire A517-51G | ? | In Progress | |
+| Aspire A615-51 | ? | In Progress | |
+| Aspire A615-51G | ? | In Progress | |
+| Aspire A715-71G | ? | In Progress | |
+| Aspire A715-72G | ? | In Progress | |
+| Aspire A717-71G | ? | In Progress | |
+| Aspire A717-72G | ? | In Progress | |
+| Aspire C20-220 | ? | In Progress | |
+| Aspire C20-720 | ? | In Progress | |
+| Aspire C22-720 | ? (Braswell) | Feb, 2018 | |
+| Aspire C22-760 | ? (Skylake) | Feb, 2018 | |
+| Aspire C22-760 | ? (Kaby Lake) | Feb, 2018 | |
+| Aspire C22-860 | R01-A4 | Feb, 2018 | |
+| Aspire C24-760 | ? (Skylake) | Feb, 2018 | |
+| Aspire C24-760 | ? (Kaby Lake) | Feb, 2018 | |
+| Aspire C24-860 | R01-A4 | Feb, 2018 | |
+| Aspire E5-475 | 1.22 | Feb, 2018 | |
+| Aspire E5-475G | 1.22 | Feb, 2018 | |
+| Aspire E5-475T | 1.22 | Feb, 2018 | |
+| Aspire E5-475TG | 1.22 | Feb, 2018 | |
+| Aspire E5-476 | 1.22 | Feb, 2018 | |
+| Aspire E5-476G | 1.22 | Feb, 2018 | |
+| Aspire E5-575 | 1.33 | Mar, 2018 | |
+| Aspire E5-575G | 1.33 | Mar, 2018 | |
+| Aspire E5-575T | 1.33 | Mar, 2018 | |
+| Aspire E5-575TG | 1.33 | Mar, 2018 | |
+| Aspire E5-576 | 1.33 | Mar, 2018 | |
+| Aspire E5-576G | 1.33 | Mar, 2018 | |
+| Aspire E5-576T | 1.33 | Mar, 2018 | |
+| Aspire E5-576TG | 1.33 | Mar, 2018 | |
+| Aspire E5-774 | 1.33 | In Progress | |
+| Aspire E5-774G | 1.33 | In Progress | |
+| Aspire ES1-132 | 1.17 | Feb, 2018 | |
+| Aspire ES1-332 | 1.17 | Feb, 2018 | |
+| Aspire ES1-432 | 1.16 | Feb, 2018 | |
+| Aspire ES1-433 | 1.12 | Feb, 2018 | |
+| Aspire ES1-433G | 1.12 | Feb, 2018 | |
+| Aspire ES1-533 | 1.15 | Jan, 2018 | |
+| Aspire ES1-572  | 1.13 | In Progress | |
+| Aspire ES1-732 | 1.15 | Jan, 2018 | |
+| Aspire F5-573 | 1.33 | In Progress | |
+| Aspire F5-573G | 1.33 | In Progress | |
+| Aspire F5-573T | 1.33 | In Progress | |
+| Aspire F5-771 | 1.33 | In Progress | |
+| Aspire F5-771G | 1.33 | In Progress | |
+| Aspire GX-280 | ? | In Progress | |
+| Aspire GX-281 | ? | In Progress | |
+| Aspire GX-781 | R02-B1 | Feb, 2018 | |
+| Aspire GX-785 | R02-B1 | Feb, 2018 | |
+| Aspire K40-10 | 1.22 | Feb, 2018 | |
+| Aspire K50-20 | 1.33 | Mar, 2018 | |
+| Aspire K50-30 | ? | In Progress | |
+| Aspire R5-371T | 1.13 | In Progress | |
+| Aspire S24-880 | R01-A2 | Feb, 2018 | |
+| Aspire S5-371 | ? | In Progress | |
+| Aspire S5-371T | ? | In Progress | |
+| Aspire T3-220 | ? | In Progress | |
+| Aspire T3-710 | ? | In Progress | |
+| Aspire T3-715 | R01-A4S2 | In Progress | |
+| Aspire T3-715A | R01-A4S2 | In Progress | |
+| Aspire T3-780 | R01-A1S1 | In Progress | |
+| Aspire T6000 | ? | In Progress | |
+| Aspire TC-214 | ? | In Progress | |
+| Aspire TC-217 | ? | In Progress | |
+| Aspire TC-220 | ? | In Progress | |
+| Aspire TC-230 | ? | In Progress | |
+| Aspire TC-280 | ? | In Progress | |
+| Aspire TC-281 | ? | In Progress | |
+| Aspire TC-330 | ? | In Progress | |
+| Aspire TC-701 | ? | In Progress | |
+| Aspire TC-702 | ? | In Progress | |
+| Aspire TC-704 | ? | In Progress | |
+| Aspire TC-710 | ? | In Progress | |
+| Aspire TC-730 | R01-B0 | Feb, 2018 | |
+| Aspire TC-760 | R01-A1S1 | In Progress | |
+| Aspire TC-780 | R01-A1S1 (Skylake) | In Progress | |
+| Aspire TC-780 | R02-B1 (Kaby Lake) | Mar, 2018 | |
+| Aspire TC-780A | R01-A1S1 (Skylake) | In Progress | |
+| Aspire TC-780A | R02-B1 (Kaby Lake) | Mar, 2018 | |
+| Aspire TC-830 | R01-A1 | Feb, 2018 | |
+| Aspire U27-880 | R01-B0 | Feb, 2018 | |
+| Aspire U5-710 | R01-A4S1 | In Progress | |
+| Aspire V3-372 | 1.13 | In Progress | |
+| Aspire V3-372T | 1.13 | In Progress | |
+| Aspire VN7-593G | 1.09 | In Progress | |
+| Aspire VN7-593G_ | 1.09 | In Progress | |
+| Aspire VN7-793G | 1.09 | In Progress | |
+| Aspire VX5-591G | 1.07 | Feb, 2018 | |
+| Aspire X3-710 | ? | In Progress | |
+| Aspire X3-780 | R01-A1S1 (Skylake) | In Progress | |
+| Aspire X3-780 | R02-B1 (Kaby Lake) | Feb, 2018 | |
+| Aspire XC-217 | ? | In Progress | |
+| Aspire XC-230 | ? | In Progress | |
+| Aspire XC-330 | ? | In Progress | |
+| Aspire XC-704G | ? | In Progress | |
+| Aspire XC-710 | ? | In Progress | |
+| Aspire XC-710G | ? | In Progress | |
+| Aspire XC-730 | R01-B0 | Feb, 2018 | |
+| Aspire XC-780 | R01-A1S1 (Skylake) | In Progress | |
+| Aspire XC-780 | R02-B1 (Kaby Lake) | Feb, 2018 | |
+| Aspire XC-830 | R01-A1 | Feb, 2018 | |
+| Aspire Z1-612 | ? | In Progress | |
+| Aspire Z22-780 | R01-A4 | Feb, 2018 | |
+| Aspire Z24-880 | R01-B0 | Feb, 2018 | |
+| Aspire Z3-613 | ? | In Progress | |
+| Aspire Z3-705 | R01-A3S0 | Feb, 2018 | |
+| Aspire Z3-705G | R01-A3S0 | Feb, 2018 | |
+| Aspire Z3-711 | R01-A2S0 | Feb, 2018 | |
+| Aspire Z3-715 | R01-A3S1 (Skylake) | Feb, 2018 | |
+| Aspire Z3-715 | R02-A4 (Kaby Lake) | Feb, 2018 | |
+
+
 # Dell
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
@@ -395,7 +523,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | Vostro 5560 | follows | In Process
 | Vostro 15 (7570) | 1.3.2 | ? | no
 | XPS 12 (9250) | 1.1.34 | ? | no
-| XPS 13 (9343) | A14 | 1/19/2018 | yes (not verified)
+| XPS 13 (9343) | A13 | ? | no
 | XPS 13 (9350) | 1.6.1 | ? | no
 | XPS 13 (9360) | 2.5.0 | ? | no
 | XPS 13 (9370) | 1.1.3 | ? | no
