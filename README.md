@@ -1066,6 +1066,11 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | --- | --- | --- | --- |
 | 20HD005NGE | 13.12.2017 | 1.44 | yes |
 
+# Microsoft
+| model | latest BIOS | release date | vulnerabilities mitigated ? |
+| --- | --- | --- | --- |
+| Surface Book | 91.1926.768 | 6.12.2017 | yes (verified) |
+
 # MSI
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
