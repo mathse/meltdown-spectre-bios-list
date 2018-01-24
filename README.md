@@ -647,7 +647,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 | OptiPlex 5040 | 1.8.1 | ? | no
 | OptiPlex 5050 | 1.7.7 | ? | no
 | OptiPlex 5250 | 1.8.1 | ? | no
-| OptiPlex 7010 | A26 | 2018/01/09 | no |
+| OptiPlex 7010 | A26 | 2018/01/09 | no (Dell removed info) | 
 | OptiPlex 7020 | A14 | ? | no
 | OptiPlex 7040 | 1.8.1 | ? | no
 | OptiPlex 7050 | 1.7.7 | 1/9/2018 | yes (verified)
