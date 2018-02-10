@@ -433,21 +433,22 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
-| Alienware 13 R2 | 1.4.4 | ? | no
+| Alienware 13 R2 | 1.4.4 | 06 Feb 2018 | yes (not verified)
 | Alienware 13 R3 | 1.2.3 | ? | no
-| Alienware 15 R2 | 1.4.4 | ? | no
+| Alienware 15 R2 | 1.4.4 | 06 Feb 2018 | yes (not verified)
 | Alienware 15 R3 | 1.2.3 | ? | no
 | Alienware 17 R2 | ? | ?
+| Alienware 17 R3 | 06 Feb 2018 | yes (not verified)
 | Alienware 17 R4 | 1.2.3 | ? | no
 | Alienware Area-51 R2 | ? | ? |
 | Alienware Area-51 R4 | 1.1.3 | ? | no
 | Alienware Area-51 R5 | ? | ?
-| Alienware Aurora R5 | 1.0.16 | ?
+| Alienware Aurora R5 | 1.0.16 | 06 Feb 2018 | yes (not verified)
 | Alienware Aurora R6 | 1.0.12 | ? | no
 | Alienware Aurora R7 | ? | ?
-| Alienware Steam Machine 200 | 2.0.10
-| Alienware Steam Machine 201 | 1.0.11
-| Alienware X51 R3 | 1.0.11 | ? | no
+| Alienware Steam Machine 200 | 2.0.10 | 06 Feb 2018 | yes (not verified)
+| Alienware Steam Machine 201 | 1.0.11 | 06 Feb 2018 | yes (not verified)
+| Alienware X51 R3 | 1.2.11 | 06 Feb 2018 | yes (not verified)
 | ChengMing 3967 | 1.2.2 | ? | no
 | ChengMing 3977 | 1.3.2 | ? | no
 | Dell Embedded Box PC 3000 | ? | ?
