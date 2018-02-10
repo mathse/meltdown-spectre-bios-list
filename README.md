@@ -425,10 +425,11 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 
 # Dell
 
-Update 01/22/2018:
-Intel has communicated new guidance regarding the "reboot issues" with the microcode included in the BIOS updates released to address Spectre (Variant 2), CVE-2017-5715. Dell is advising that all customers should not deploy the BIOS update for the Spectre (Variant 2) vulnerability at this time. We are removing the impacted BIOS updates from the web and suspending further BIOS updates for affected platforms.
-If you have already applied the BIOS update, please wait for further information and an updated BIOS release, no other action is recommended at this point. Please continue to check back for updates.
-As a reminder, the Operating System patches are not impacted and still provide mitigations to Spectre (Variant 1) and Meltdown (Variant 3). The microcode update is only required for Spectre (Variant 2), CVE-2017-5715.
+Patch Guidance
+Update 02/07/2018
+Dell has received updated Intel microcode for select platforms to mitigate against the Spectre (Variant 2) vulnerability CVE-2017-5715. Dell has started to deploy the new BIOS updates for these platforms listed in the table of Dell Products Affected below. Other BIOS updates for listed affected platforms will roll out over the coming weeks.
+All customers with an affected platform should download the latest BIOS update listed below, even if they have deployed an earlier BIOS version for this vulnerability. Those who have disabled the microcode patch using an OS configuration option should re-enable it manually after applying the BIOS updates.
+As a reminder, the microcode update is required for Spectre (Variant 2), CVE-2017-5715. The Operating System patches provide mitigations to Spectre (Variant 1) and Meltdown (Variant 3) and are also required.
 
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
