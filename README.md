@@ -449,13 +449,13 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Alienware Steam Machine 200 | 2.0.10 | 06 Feb 2018 | yes (not verified)
 | Alienware Steam Machine 201 | 1.0.11 | 06 Feb 2018 | yes (not verified)
 | Alienware X51 R3 | 1.2.11 | 06 Feb 2018 | yes (not verified)
-| ChengMing 3967 | 1.2.2 | ? | no
+| ChengMing 3967 | 1.2.2 | 06 Feb 2018 | yes (not verified)
 | ChengMing 3977 | 1.3.2 | ? | no
 | Dell Embedded Box PC 3000 | ? | ?
 | Edge Gateway 3000 series | ? | ?
 | Edge Gateway 5000 (Commercial) | ? | ?
 | Edge Gateway 5100 (Industrial) | ? | ?
-| Embedded Box PC 5000 | 1.4.2 | ? | no
+| Embedded Box PC 5000 | 1.4.2 | 06 Feb 2018 | yes (not verified)
 | Enterprise Server T20 | A15 | ? | no
 | Enterprise Server T30 | 1.0.12 | ? | no
 | Inspiron 11 (3137) SFX Platform | ? | ?
