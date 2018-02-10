@@ -459,12 +459,13 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Enterprise Server T20 | A15 | ? | no
 | Enterprise Server T30 | 1.0.12 | ? | no
 | Inspiron 11 (3137) SFX Platform | ? | ?
-| Inspiron 11 2-in-1 (3153) | 1.18.2 | ? | no
-| Inspiron 11 2-in-1 (3158) | 1.18.2 | ? | no
+| Inspiron 11 2-in-1 (3153) | 1.18.2 | 06 Feb 2018 | yes (not verified)
+| Inspiron 11 2-in-1 (3158) | 1.18.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 11 (3162) | ? | ?
 | Inspiron 11 (3164) | ? | ?
 | Inspiron 11 (3168) | ? | ?
-| Inspiron 13 2-in-1 (5368) | 1.15.2 | ? | no
+| Inspiron 11 (3169) | 1.4.0 | 06 Feb 2018 | yes (not verified)
+| Inspiron 13 2-in-1 (5368) | 1.15.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 13 2-in-1 (5378) | 1.22.3 | ? | no
 | Inspiron 13 2-in-1 (5379) | 1.3.2 | ? | no
 | Inspiron 13 2-in-1 (7378) | 1.22.3 | ? | no
@@ -474,7 +475,7 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Inspiron 14 (5468) | 1.4.2 | ? | no
 | Inspiron 14 (7437) | ? | ?
 | Inspiron 14 (7460) | 1.4.2 | ? | no
-| Inspiron 14 Gaming (7466) | 1.2.1 | ? | no
+| Inspiron 14 Gaming (7466) | 1.2.1 | 06 Feb 2018 | yes (not verified)
 | Inspiron 14 Gaming (7467) | 1.4.0 | ? | no
 | Inspiron 15 (3567) | 2.1.3 | ? | no
 | Inspiron 15 (3568) | 1.8.3 | ? | no
@@ -482,80 +483,80 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Inspiron 15 (5567) | 1.1.9 | ? | no
 | Inspiron 15 (7537) | ? | ?
 | Inspiron 15 (7560) | 1.4.2 | ? | no
-| Inspiron 15 Gaming (7566) | 1.2.1 | ? | no
+| Inspiron 15 Gaming (7566) | 1.2.1 | 06 Feb 2018 | yes (not verified)
 | Inspiron 15 Gaming (7567) | 1.4.0 | ? | no
-| Inspiron 15 2-in-1 (5568) | 1.15.2 | ? | no
+| Inspiron 15 2-in-1 (5568) | 1.15.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 15 2-in-1 (5578) | 1.22.3 | ? | no
 | Inspiron 15 2-in-1 (5579) | 1.3.2 | ? | no
-| Inspiron 15 2-in-1 (7569) | 1.15.2 | ? | no
+| Inspiron 15 2-in-1 (7569) | 1.15.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 15 2-in-1 (7579) | 1.22.3 | ? | no
 | Inspiron 15R (5537) | ? | ?
 | Inspiron 17 (5767) | 1.1.9 | ? | no
 | Inspiron 17 (7737) | ? | ?
 | Inspiron 17 2-in-1 (7773) | 1.3.2 | ? | no
-| Inspiron 17 2-in-1 (7778) | 1.15.2 | ? | no
+| Inspiron 17 2-in-1 (7778) | 1.15.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 17 2-in-1 (7779) | 1.22.3 | ? | no
 | Inspiron 17R (5737) | ? | ?
 | Inspiron 20 AIO (3064) | 2.2.2 | ? | no
-| Inspiron 20 AIO (3059) | 2.8.1 | ? | no
-| Inspiron 22 (3263) | 1.7.0 | ? | no
-| Inspiron 22 AIO (3263) | 1.7.0 | ? | no
+| Inspiron 20 AIO (3059) | 2.8.1 | 06 Feb 2018 | yes (not verified)
+| Inspiron 22 (3263) | 1.7.0 | 06 Feb 2018 | yes (not verified)
+| Inspiron 22 AIO (3263) | 1.7.0 | 06 Feb 2018 | yes (not verified)
 | Inspiron 22 AIO (3264) | 2.2.2 | ? | no
 | Inspiron 23 (5348) | A09 | ? | no
 | Inspiron 2350 | ? | ?
-| Inspiron 24 AIO (3459) | 2.8.1 | ? | no
+| Inspiron 24 AIO (3459) | 2.8.1 | 06 Feb 2018 | yes (not verified)
 | Inspiron 24 AIO (3464) | 2.2.2 | ? | no
-| Inspiron 24 AIO (5459) | 2.8.0 | ? | no
+| Inspiron 24 AIO (5459) | 2.8.0 | 06 Feb 2018 | yes (not verified)
 | Inspiron 24 AIO (5488) | 2.4.2 | ? | no
 | Inspiron 20 AIO (3052) | ? | ?
 | Inspiron 3147 | ? | ?
 | Inspiron 3148 | ? | ?
 | Inspiron 11 (3169) | 1.4.0 | ? | no
 | Inspiron 11 (3179) | 1.3.3 | ? | no
-| Inspiron 3250 | 3.5.2 | ? | no
+| Inspiron 3250 | 3.5.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 3252 | ? | ?
 | Inspiron 3268 | 1.6.0 | ? | no
 | Inspiron 24 AIO (3452) | ? | ?
 | Inspiron 3458 | ? | ?
-| Inspiron 14 (3459) | 1.5.3 | ? | no
-| Inspiron 14 (3462) | 1.9.2 | ? | no
+| Inspiron 14 (3459) | 1.5.3 | 06 Feb 2018 | yes (not verified)
+| Inspiron 14 (3462) | 1.9.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 3476 | ? | ?
 | Inspiron 3537 | ? | ?
 | Inspiron 3558 | ? | ?
-| Inspiron 15 (3559) | 1.5.3 | ? | no
+| Inspiron 15 (3559) | 1.5.3 | 06 Feb 2018 | yes (not verified)
 | Inspiron 3576 | ? | ?
-| Inspiron 3650 | 3.5.2 | ? | no
-| Inspiron 3662 | 2.5.0 | ? | no
+| Inspiron 3650 | 3.5.2 | 06 Feb 2018 | yes (not verified)
+| Inspiron 3662 | 2.5.0 | 06 Feb 2018 | yes (not verified)
 | Inspiron 3668 | 1.6.0 | ? | no
 | Inspiron 3737 | ? | ?
 | Inspiron 5370 | 1.3.1 | ? | no
 | Inspiron 5442 | ? | ?
 | Inspiron 5447 | ? | ?
 | Inspiron 5452 | ? | ?
-| Inspiron 5457 | 1.3.2 | ? | no
+| Inspiron 5457 | 1.3.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 5458 | ? | ?
-| Inspiron 5459 | 1.4.1 | ? | no
+| Inspiron 5459 | 1.4.1 | 06 Feb 2018 | yes (not verified)
 | Inspiron 5542 | ? | ?
 | Inspiron 5547 | ? | ?
 | Inspiron 5552 | ? | ?
-| Inspiron 5557 | 1.3.2 | ? | no
+| Inspiron 5557 | 1.3.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 5558 | ? | ?
-| Inspiron 5559 | 1.4.1 | ? | no
+| Inspiron 5559 | 1.4.1 | 06 Feb 2018 | yes (not verified)
 | Inspiron 5570 | 1.0.9 | ? | no
 | Inspiron 15 Gaming (5577) | 1.0.8 | ? | no
 | Inspiron 5758 | ? | ?
-| Inspiron 5759 | 1.4.1 | ? | no
+| Inspiron 5759 | 1.4.1 | 06 Feb 2018 | yes (not verified)
 | Inspiron 5770 | 1.0.9 | ? | no
 | Inspiron 7347 | ? | ?
 | Inspiron 13 2-in-1 (7348) | ? | ?
-| Inspiron 13 2-in-1 (7353) | 1.18.2 | ? | no
-| Inspiron 13 2-in-1 (7359) | 1.18.2 | ? | no
+| Inspiron 13 2-in-1 (7353) | 1.18.2 | 06 Feb 2018 | yes (not verified)
+| Inspiron 13 2-in-1 (7359) | 1.18.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 7370 | 1.5.4 | ? | no
 | Inspiron 13 2-in-1 (7373) | 1.5.4 | ? | no
-| Inspiron 24 AIO (7459) | 1.7.1 | ? | no
+| Inspiron 24 AIO (7459) | 1.7.1 | 06 Feb 2018 | yes (not verified)
 | Inspiron 7472 | 1.1.0 | ? | no
-| Inspiron 15 (7559) | 1.2.7 | ? | no
-| Inspiron 15 2-in-1 (7568) | 1.18.2 | ? | no
+| Inspiron 15 (7559) | 1.2.7 | 06 Feb 2018 | yes (not verified)
+| Inspiron 15 2-in-1 (7568) | 1.18.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 7570 | 1.5.4 | ? | no
 | Inspiron 15 (7572) | 1.1.0 | ? | no
 | Inspiron 15 2-in-1 (7573) | 1.5.4 | ? | no
