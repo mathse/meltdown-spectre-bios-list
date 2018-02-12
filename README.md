@@ -670,18 +670,18 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | OptiPlex 9030 | A18 | ? | no
 | OptiPlex XE2 | A21 | ? | no
 | Precision 3420 Tower | 2.6.1 | ? | no
-| Precision 3510 | 1.18.6 | ? | no
+| Precision 3510 | 1.18.6 | 06 Feb 2018 | yes (not verified)
 | Precision 3520 | 1.8.1 | ? | no
 | Precision 3620 Tower | 2.6.1 | ? | no
-| Precision 5510 | 1.6.1 | ? | no
+| Precision 5510 | 1.6.1 | 06 Feb 2018 | yes (not verified)
 | Precision 5520 | 1.7.0 | ? | no
 | Precision 5720 AIO | 2.3.3 | ? | no
 | Precision 5810 Tower | A24 | ? | no
 | Precision 5810 XL Tower | A24 | ? | no
 | Precision 5820 XL Tower | 1.2.1 | ? | no
-| Precision 7510 | 1.15.3 | ? | no
+| Precision 7510 | 1.15.4 | 06 Feb 2018 | yes (not verified)
 | Precision 7520 | 1.9.0 | ? | no
-| Precision 7710 | 1.15.3 | ? | no
+| Precision 7710 | 1.15.4 | 06 Feb 2018 | yes (not verified)
 | Precision 7720 | 1.9.0 | ? | no
 | Precision 7810 Tower | A24 | ? | no
 | Precision 7810 XL Tower | A24 | ? | no
@@ -707,33 +707,33 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Venue 11 Pro (7130) | A24 | ? | no
 | Venue 11 Pro (7130) MS | ? | ?
 | Venue 11 Pro (7140) | A14 | ? | no
-| Vostro 14 (3459) | 1.3.1 | ? | no
+| Vostro 14 (3459) | 1.3.1 | 06 Feb 2018 | yes (not verified)
 | Vostro 14 (3468) | 2.1.5 | ? | no
 | Vostro 14 (5468) | 1.4.2 | ? | no
 | Vostro 14 (5470) | ? | ?
-| Vostro 15 (3559) | 1.3.1 | ? | no
+| Vostro 15 (3559) | 1.3.1 | 06 Feb 2018 | yes (not verified)
 | Vostro 15 (3568) | 2.1.5 | ? | no
 | Vostro 15 (5568) | 1.4.2 | ? | no
 | Vostro 23 (3340) | A07 | ? | no
-| Vostro 24 (5450) | 2.8.0 | ? | no
+| Vostro 24 (5450) | 2.8.0 | 06 Feb 2018 | yes (not verified)
 | Vostro 24 (5460 Kaby Lake) | 2.4.2
-| Vostro 24 (5460) | 1.4.0 | ? | no
+| Vostro 24 (5460) | 1.4.0 | 06 Feb 2018 | yes (not verified)
 | Vostro 3052 | ? | ?
-| Vostro 3250 | 3.5.2 | ? | no
+| Vostro 3250 | 3.5.2 | 06 Feb 2018 | yes (not verified)
 | Vostro 3252 | ? | ?
 | Vostro 3267 | 1.6.0 | ? | no
 | Vostro 3268 | 1.6.0 | ? | no
 | Vostro 3458 | ? | ?
 | Vostro 3558 | ? | ?
-| Vostro 15 (3562) | ? | ?
-| Vostro 3650 | 3.5.2 | ? | no
-| Vostro 3653 | 3.5.2 | ? | no
+| Vostro 15 (3562) | 1.9.2 | 06 Feb 2018 | yes (not verified)
+| Vostro 3650 | 3.5.2 | 06 Feb 2018 | yes (not verified)
+| Vostro 3653 | 3.5.2 | 06 Feb 2018 | yes (not verified)
 | Vostro 3660 | 1.6.0 | ? | no
 | Vostro 3667 | 1.6.0 | ? | no
 | Vostro 3668 | 1.6.0 | ? | no
 | Vostro 3669 | 1.6.0 | ? | no
 | Vostro 5370 | 1.3.1 | ? | no
-| Vostro 5459 | 1.1.3 | ? | no
+| Vostro 5459 | 1.1.3 | 06 Feb 2018 | yes (not verified)
 | Vostro 5471 | 1.3.1 | ? | no
 | Vostro 5560 | ? | ?
 | Vostro 15 (7570) | 1.3.2 | ? | no
