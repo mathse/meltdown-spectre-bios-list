@@ -563,27 +563,27 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Inspiron 15 Gaming (7577) | 1.3.2 | ? | no
 | Latitude 3150 | ? | ?
 | Latitude 3160 | ? | ?
-| Latitude 3180 | ? | ?
-| Latitude 3189 | ? | ?
+| Latitude 3180 | 1.3.0 | 06 Feb 2018 | yes (not verified)
+| Latitude 3189 | 1.3.0 | 06 Feb 2018 | yes (not verified)
 | Latitude 3330 | ? | ?
 | Latitude 3340 | A15 | ? | yes
 | Latitude 3350 | A12 | ? | no
-| Latitude 3379 | 1.0.21 | ? | no
+| Latitude 3379 | 1.0.21 | 06 Feb 2018 | yes (not verified)
 | Latitude 3380 | 1.3.5 | ? | no
 | Latitude 3390 2-in-1 | ? | ?
 | Latitude 3450 | A15 | ? | no
 | Latitude 3460 | A12 | ? | no
-| Latitude 3470 | 1.10.1 | ? | no
+| Latitude 3470 | 1.10.1 | 06 Feb 2018 | yes (not verified)
 | Latitude 3480 | 1.5.5 | ? | no
 | Latitude 3490 | ? | ?
 | Latitude 3540 | ? | ?
 | Latitude 3550 | A15 | ? | no
 | Latitude 3560 | A12 | ? | no
-| Latitude 3570 | 1.10.1 | ? | no
+| Latitude 3570 | 1.10.1 | 06 Feb 2018 | yes (not verified)
 | Latitude 3580 | 1.5.5 | ? | no
 | Latitude 3590 | ? | ?
-| Latitude 5175 | 1.0.29 | ? | no
-| Latitude 5179 | 1.0.29 | ? | no
+| Latitude 5175 | 1.0.29 | 06 Feb 2018 | yes (not verified)
+| Latitude 5179 | 1.0.29 | 06 Feb 2018 | yes (not verified)
 | Latitude 5280 | 1.8.1 | ? | no
 | Latitude 5285 | 1.3.1 | ? | no
 | Latitude 5288 | 1.8.1 | ? | no
@@ -591,7 +591,7 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Latitude 5290 | 1.1.7 | ? | no
 | Latitude 5290 2-in-1 | 1.1.0 | ? | no
 | Latitude 5404 | A14 | ? | no
-| Latitude 5414 | 1.15.0 | ? | no
+| Latitude 5414 | 1.15.0 | 06 Feb 2018 | yes (not verified)
 | Latitude 5480 | 1.8.1 | ? | no
 | Latitude 5488 | 1.8.1 | ? | no
 | Latitude 5490 | 1.1.7 | ? | no
@@ -600,33 +600,33 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Latitude 7202 | A18 | ? | no
 | Latitude 7204 | A12 | ? | no
 | Latitude 7212 | 1.7.0 | ? | no
-| Latitude 7214 | 1.15.0 | ? | no
-| Latitude 7275 | 1.1.34 | ? | no
+| Latitude 7214 | 1.15.0 | 06 Feb 2018 | yes (not verified)
+| Latitude 7275 | 1.1.34 | 06 Feb 2018 | yes (not verified)
 | Latitude 7280 | 1.8.1 | ? | no
 | Latitude 7285 | 1.1.0 | ? | no
 | Latitude 7290 | 1.2.6 | ? | no
 | Latitude 7350 | A14 | ? | no
-| Latitude 7370 | 1.15.3 | ? | no
+| Latitude 7370 | 1.15.3 | 06 Feb 2018 | yes (not verified)
 | Latitude 7380 | 1.8.1 | ? | no
 | Latitude 7389 | 1.10.1 | ? | no
 | Latitude 7390 | 1.2.6 | ? | no
 | Latitude 7390 2-in-1 | 1.1.3 | ? | no
 | Latitude 7404 | A13 | ? | no
-| Latitude 7414 | 1.15.0 | ? | no
+| Latitude 7414 | 1.15.0 | 06 Feb 2018 | yes (not verified)
 | Latitude 7480 | 1.8.1 | ? | no
 | Latitude 7490 | 1.2.6 | ? | no
 | Latitude E5250 | A18 | ? | no
-| Latitude E5270 | 1.18.6 | ? | no
+| Latitude E5270 | 1.18.6 | 06 Feb 2018 | yes (not verified)
 | Latitude E5430 | ? | ?
 | Latitude E5430 vPro | ? | ?
 | Latitude E5440 | A19 | ? | no
 | Latitude E5450 | A18 | ? | no
-| Latitude E5470 | 1.18.6 | ? | no
+| Latitude E5470 | 1.18.6 | 06 Feb 2018 | yes (not verified)
 | Latitude E5530 | ? | ?
 | Latitude E5530 vPro | ? | ?
 | Latitude E5540 | A19 | ? | no
 | Latitude E5550 | A18 | ? | no
-| Latitude E5570 | 1.18.6 | ? | no
+| Latitude E5570 | 1.18.6 | 06 Feb 2018 | yes (not verified)
 | Latitude E6230 | ? | ?
 | Latitude E6330 | ? | ?
 | Latitude E6430 | ? | ?
@@ -639,28 +639,28 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Latitude E6540 | A22 | ? | no
 | Latitude E7240 | A23 | ? | no
 | Latitude E7250 | A18 | ? | no
-| Latitude E7270 | 1.18.5 | ? | no
+| Latitude E7270 | 1.18.5 | 06 Feb 2018 | yes (not verified)
 | Latitude E7440 | A23 | ? | no
 | Latitude E7450 | A18 | ? | no
-| Latitude E7470 | 1.18.5 | ? | no
+| Latitude E7470 | 1.18.5 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 3010 | ? | ?
 | OptiPlex 3011 AIO | ? | ?
 | OptiPlex 3020 | A16 | ? | no
 | OptiPlex 3020M | A11 | ? | no
 | OptiPlex 3030 | A11 | ?
-| OptiPlex 3040 | 1.6.1 | ? | no |
-| OptiPlex 3046 | 1.3.1 | ? | no
+| OptiPlex 3040 | 1.6.1 | 06 Feb 2018 | yes (not verified)
+| OptiPlex 3046 | 1.3.1 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 3050 | 1.7.7 | ? | no
 | OptiPlex 3050 AIO | 1.8.1 | ? | no
-| OptiPlex 3240 AIO | 1.5.21 | ? | no
-| OptiPlex 5040 | 1.8.1 | ? | no
+| OptiPlex 3240 AIO | 1.5.21 | 06 Feb 2018 | yes (not verified)
+| OptiPlex 5040 | 1.8.1 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 5050 | 1.7.7 | ? | no
 | OptiPlex 5250 | 1.8.1 | ? | no
 | OptiPlex 7010 | A26 | ? | no |
 | OptiPlex 7020 | A14 | ? | no
-| OptiPlex 7040 | 1.8.1 | ? | no
+| OptiPlex 7040 | 1.8.1 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 7050 | 1.7.7 | ? | no
-| OptiPlex 7440 AIO | 1.8.6 | ? | no
+| OptiPlex 7440 AIO | 1.8.6 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 7450 | 1.8.1 | ? | no
 | OptiPlex 9010 | A27 | ? | no
 | OptiPlex 9010 AIO | ? | ?
