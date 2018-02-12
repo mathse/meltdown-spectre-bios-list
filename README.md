@@ -737,17 +737,17 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Vostro 5471 | 1.3.1 | ? | no
 | Vostro 5560 | ? | ?
 | Vostro 15 (7570) | 1.3.2 | ? | no
-| XPS 12 (9250) | 1.1.34 | ? | no
+| XPS 12 (9250) | 1.1.34 | 06 Feb 2018 | yes (not verified)
 | XPS 13 (9343) | A13 | ? | no
-| XPS 13 (9350) | 1.6.1 | ? | no
+| XPS 13 (9350) | 1.6.1 | 06 Feb 2018 | yes (not verified)
 | XPS 13 (9360) | 2.5.0 | ? | no
 | XPS 13 (9370) | 1.1.3 | ? | no
 | XPS 13 2-in-1 (9365) | 1.2.1 | ? | no
-| XPS 15 (9550) | 1.6.1 | ? | no
+| XPS 15 (9550) | 1.6.1 | 06 Feb 2018 | yes (not verified)
 | XPS 15 (9560) | 1.7.0 | ? | no
 | XPS 27 AIO (7760) | 2.3.3 | ? | no
-| XPS 8900 | 2.2.1 | ? | no
-| XPS 8910 | 1.1.5 | ? | no
+| XPS 8900 | 2.2.1 | 06 Feb 2018 | yes (not verified)
+| XPS 8910 | 1.1.5 | 06 Feb 2018 | yes (not verified)
 | XPS 8920 | 1.0.12 | ? | no
 | XPS 8930 | ? | ?
 
