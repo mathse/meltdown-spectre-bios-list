@@ -434,23 +434,23 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
 | Alienware 13 R2 | 1.4.4 | 06 Feb 2018 | yes (not verified)
-| Alienware 13 R3 | 1.2.3 | ? | no
+| Alienware 13 R3 | 1.2.4 | 18 Feb 2018 | yes (not verified)
 | Alienware 15 R2 | 1.4.4 | 06 Feb 2018 | yes (not verified)
-| Alienware 15 R3 | 1.2.3 | ? | no
+| Alienware 15 R3 | 1.2.4 | 18 Feb 2018 | yes (not verified)
 | Alienware 17 R2 | ? | ?
 | Alienware 17 R3 | 06 Feb 2018 | yes (not verified)
-| Alienware 17 R4 | 1.2.3 | ? | no
+| Alienware 17 R4 | 1.2.4 | 18 Feb 2018 | yes (not verified)
 | Alienware Area-51 R2 | ? | ? |
 | Alienware Area-51 R4 | 1.1.3 | ? | no
 | Alienware Area-51 R5 | ? | ?
 | Alienware Aurora R5 | 1.0.16 | 06 Feb 2018 | yes (not verified)
-| Alienware Aurora R6 | 1.0.12 | ? | no
+| Alienware Aurora R6 | 1.0.14 | 18 Feb 2018 | yes (not verified)
 | Alienware Aurora R7 | ? | ?
 | Alienware Steam Machine 200 | 2.0.10 | 06 Feb 2018 | yes (not verified)
 | Alienware Steam Machine 201 | 1.0.11 | 06 Feb 2018 | yes (not verified)
 | Alienware X51 R3 | 1.2.11 | 06 Feb 2018 | yes (not verified)
 | ChengMing 3967 | 1.2.2 | 06 Feb 2018 | yes (not verified)
-| ChengMing 3977 | 1.3.2 | ? | no
+| ChengMing 3977 | 1.3.3 | 18 Feb 2018 | yes (not verified)
 | Dell Embedded Box PC 3000 | ? | ?
 | Edge Gateway 3000 series | ? | ?
 | Edge Gateway 5000 (Commercial) | ? | ?
@@ -466,42 +466,42 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Inspiron 11 (3168) | ? | ?
 | Inspiron 11 (3169) | 1.4.0 | 06 Feb 2018 | yes (not verified)
 | Inspiron 13 2-in-1 (5368) | 1.15.2 | 06 Feb 2018 | yes (not verified)
-| Inspiron 13 2-in-1 (5378) | 1.22.3 | ? | no
-| Inspiron 13 2-in-1 (5379) | 1.3.2 | ? | no
-| Inspiron 13 2-in-1 (7378) | 1.22.3 | ? | no
-| Inspiron 14 (3467) | 2.1.3 | ? | no
+| Inspiron 13 2-in-1 (5378) | 1.23.3 | 18 Feb 2018 | yes (not verified)
+| Inspiron 13 2-in-1 (5379) | 1.6.0 | 18 Feb 2018 | yes (not verified)
+| Inspiron 13 2-in-1 (7378) | 1.23.3 | 18 Feb 2018 | yes (not verified)
+| Inspiron 14 (3467) | 2.2.2 | 18 Feb 2018 | yes (not verified)
 | Inspiron 14 (5439) | ? | ?
-| Inspiron 14 (3468) | 1.8.3 | ? | no
-| Inspiron 14 (5468) | 1.4.2 | ? | no
+| Inspiron 14 (3468) | 1.9.2 | 18 Feb 2018 | yes (not verified)
+| Inspiron 14 (5468) | 1.6.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 14 (7437) | ? | ?
-| Inspiron 14 (7460) | 1.4.2 | ? | no
+| Inspiron 14 (7460) | 1.5.4 | 18 Feb 2018 | yes (not verified)
 | Inspiron 14 Gaming (7466) | 1.2.1 | 06 Feb 2018 | yes (not verified)
-| Inspiron 14 Gaming (7467) | 1.4.0 | ? | no
-| Inspiron 15 (3567) | 2.1.3 | ? | no
-| Inspiron 15 (3568) | 1.8.3 | ? | no
-| Inspiron 15 (5566) | 1.4.2 | ? | no
-| Inspiron 15 (5567) | 1.1.9 | ? | no
+| Inspiron 14 Gaming (7467) | 1.5.3 | 18 Feb 2018 | yes (not verified)
+| Inspiron 15 (3567) | 2.2.2 | 18 Feb 2018 | yes (not verified)
+| Inspiron 15 (3568) | 1.9.2 | 18 Feb 2018 | yes (not verified)
+| Inspiron 15 (5566) | 1.6.0 | 18 Feb 2018 | yes (not verified)
+| Inspiron 15 (5567) | 1.2.3 | 18 Feb 2018 | yes (not verified)
 | Inspiron 15 (7537) | ? | ?
-| Inspiron 15 (7560) | 1.4.2 | ? | no
+| Inspiron 15 (7560) | 1.5.4 | 18 Feb 2018 | yes (not verified)
 | Inspiron 15 Gaming (7566) | 1.2.1 | 06 Feb 2018 | yes (not verified)
-| Inspiron 15 Gaming (7567) | 1.4.0 | ? | no
+| Inspiron 15 Gaming (7567) | 1.5.3 | 18 Feb 2018 | yes (not verified)
 | Inspiron 15 2-in-1 (5568) | 1.15.2 | 06 Feb 2018 | yes (not verified)
-| Inspiron 15 2-in-1 (5578) | 1.22.3 | ? | no
-| Inspiron 15 2-in-1 (5579) | 1.3.2 | ? | no
+| Inspiron 15 2-in-1 (5578) | 1.23.3 | 18 Feb 2018 | yes (not verified)
+| Inspiron 15 2-in-1 (5579) | 1.6.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 15 2-in-1 (7569) | 1.15.2 | 06 Feb 2018 | yes (not verified)
-| Inspiron 15 2-in-1 (7579) | 1.22.3 | ? | no
+| Inspiron 15 2-in-1 (7579) | 1.23.3 | 18 Feb 2018 | yes (not verified)
 | Inspiron 15R (5537) | ? | ?
-| Inspiron 17 (5767) | 1.1.9 | ? | no
+| Inspiron 17 (5767) | 1.2.3 | 18 Feb 2018 | yes (not verified)
 | Inspiron 17 (7737) | ? | ?
-| Inspiron 17 2-in-1 (7773) | 1.3.2 | ? | no
+| Inspiron 17 2-in-1 (7773) | 1.6.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 17 2-in-1 (7778) | 1.15.2 | 06 Feb 2018 | yes (not verified)
-| Inspiron 17 2-in-1 (7779) | 1.22.3 | ? | no
+| Inspiron 17 2-in-1 (7779) | 1.23.3 | 18 Feb 2018 | yes (not verified)
 | Inspiron 17R (5737) | ? | ?
-| Inspiron 20 AIO (3064) | 2.2.2 | ? | no
+| Inspiron 20 AIO (3064) | 2.3.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 20 AIO (3059) | 2.8.1 | 06 Feb 2018 | yes (not verified)
 | Inspiron 22 (3263) | 1.7.0 | 06 Feb 2018 | yes (not verified)
-| Inspiron 22 AIO (3263) | 1.7.0 | 06 Feb 2018 | yes (not verified)
-| Inspiron 22 AIO (3264) | 2.2.2 | ? | no
+| Inspiron 22 AIO (3263) | 1.7.0 | ? | no
+| Inspiron 22 AIO (3264) | 2.3.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 23 (5348) | A09 | ? | no
 | Inspiron 2350 | ? | ?
 | Inspiron 24 AIO (3459) | 2.8.1 | 06 Feb 2018 | yes (not verified)
@@ -511,8 +511,8 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Inspiron 20 AIO (3052) | ? | ?
 | Inspiron 3147 | ? | ?
 | Inspiron 3148 | ? | ?
-| Inspiron 11 (3169) | 1.4.0 | ? | no
-| Inspiron 11 (3179) | 1.3.3 | ? | no
+| Inspiron 11 (3169) | 1.4.0 | 18 Feb 2018 | yes (not verified)
+| Inspiron 11 (3179) | 1.4.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 3250 | 3.5.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 3252 | ? | ?
 | Inspiron 3268 | 1.6.0 | ? | no
@@ -543,7 +543,7 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Inspiron 5558 | ? | ?
 | Inspiron 5559 | 1.4.1 | 06 Feb 2018 | yes (not verified)
 | Inspiron 5570 | 1.0.9 | ? | no
-| Inspiron 15 Gaming (5577) | 1.0.8 | ? | no
+| Inspiron 15 Gaming (5577) | 1.0.9 | 18 Feb 2018 | yes (not verified)
 | Inspiron 5758 | ? | ?
 | Inspiron 5759 | 1.4.1 | 06 Feb 2018 | yes (not verified)
 | Inspiron 5770 | 1.0.9 | ? | no
@@ -552,15 +552,15 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Inspiron 13 2-in-1 (7353) | 1.18.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 13 2-in-1 (7359) | 1.18.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 7370 | 1.5.4 | ? | no
-| Inspiron 13 2-in-1 (7373) | 1.5.4 | ? | no
+| Inspiron 13 2-in-1 (7373) | 1.7.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 24 AIO (7459) | 1.7.1 | 06 Feb 2018 | yes (not verified)
 | Inspiron 7472 | 1.1.0 | ? | no
 | Inspiron 15 (7559) | 1.2.7 | 06 Feb 2018 | yes (not verified)
 | Inspiron 15 2-in-1 (7568) | 1.18.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 7570 | 1.5.4 | ? | no
-| Inspiron 15 (7572) | 1.1.0 | ? | no
-| Inspiron 15 2-in-1 (7573) | 1.5.4 | ? | no
-| Inspiron 15 Gaming (7577) | 1.3.2 | ? | no
+| Inspiron 15 (7572) | 1.1.3 | 18 Feb 2018 | yes (not verified)
+| Inspiron 15 2-in-1 (7573) | 1.7.0 | 18 Feb 2018 | yes (not verified)
+| Inspiron 15 Gaming (7577) | 1.4.2 | 18 Feb 2018 | yes (not verified)
 | Latitude 3150 | ? | ?
 | Latitude 3160 | ? | ?
 | Latitude 3180 | 1.3.0 | 06 Feb 2018 | yes (not verified)
