@@ -438,7 +438,7 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Alienware 15 R2 | 1.4.4 | 06 Feb 2018 | yes (not verified)
 | Alienware 15 R3 | 1.2.4 | 18 Feb 2018 | yes (not verified)
 | Alienware 17 R2 | ? | ?
-| Alienware 17 R3 | 06 Feb 2018 | yes (not verified)
+| Alienware 17 R3 | 1.4.4 | 06 Feb 2018 | yes (not verified)
 | Alienware 17 R4 | 1.2.4 | 18 Feb 2018 | yes (not verified)
 | Alienware Area-51 R2 | ? | ? |
 | Alienware Area-51 R4 | 1.1.3 | ? | no
@@ -493,6 +493,7 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Inspiron 15R (5537) | ? | ?
 | Inspiron 17 (5767) | 1.2.3 | 18 Feb 2018 | yes (not verified)
 | Inspiron 17 (7737) | ? | ?
+| Inspiron 17 (7746) | ? | ?
 | Inspiron 17 2-in-1 (7773) | 1.6.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 17 2-in-1 (7778) | 1.15.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 17 2-in-1 (7779) | 1.23.3 | 18 Feb 2018 | yes (not verified)
@@ -505,9 +506,9 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Inspiron 23 (5348) | A09 | ? | no
 | Inspiron 2350 | ? | ?
 | Inspiron 24 AIO (3459) | 2.8.1 | 06 Feb 2018 | yes (not verified)
-| Inspiron 24 AIO (3464) | 2.2.2 | ? | no
+| Inspiron 24 AIO (3464) | 2.3.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 24 AIO (5459) | 2.8.0 | 06 Feb 2018 | yes (not verified)
-| Inspiron 24 AIO (5488) | 2.4.2 | ? | no
+| Inspiron 24 AIO (5488) | 2.5.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 20 AIO (3052) | ? | ?
 | Inspiron 3147 | ? | ?
 | Inspiron 3148 | ? | ?
@@ -515,21 +516,21 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Inspiron 11 (3179) | 1.4.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 3250 | 3.5.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 3252 | ? | ?
-| Inspiron 3268 | 1.6.0 | ? | no
+| Inspiron 3268 | 1.7.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 24 AIO (3452) | ? | ?
 | Inspiron 3458 | ? | ?
 | Inspiron 14 (3459) | 1.5.3 | 06 Feb 2018 | yes (not verified)
 | Inspiron 14 (3462) | 1.9.2 | 06 Feb 2018 | yes (not verified)
-| Inspiron 3476 | ? | ?
-| Inspiron 3537 | ? | ?
+| Inspiron 3476 | 1.2.1 | 18 Feb 2018 | yes (not verified)
+| Inspiron 3537 | 1.2.1 | 18 Feb 2018 | yes (not verified)
 | Inspiron 3558 | ? | ?
 | Inspiron 15 (3559) | 1.5.3 | 06 Feb 2018 | yes (not verified)
-| Inspiron 3576 | ? | ?
+| Inspiron 3576 | 1.2.1 | 18 Feb 2018 | yes (not verified)
 | Inspiron 3650 | 3.5.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 3662 | 2.5.0 | 06 Feb 2018 | yes (not verified)
-| Inspiron 3668 | 1.6.0 | ? | no
+| Inspiron 3668 | 1.7.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 3737 | ? | ?
-| Inspiron 5370 | 1.3.1 | ? | no
+| Inspiron 5370 | 1.5.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 5442 | ? | ?
 | Inspiron 5447 | ? | ?
 | Inspiron 5452 | ? | ?
@@ -542,25 +543,27 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Inspiron 5557 | 1.3.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 5558 | ? | ?
 | Inspiron 5559 | 1.4.1 | 06 Feb 2018 | yes (not verified)
-| Inspiron 5570 | 1.0.9 | ? | no
+| Inspiron 5570 | 1.1.3 | 18 Feb 2018 | yes (not verified)
 | Inspiron 15 Gaming (5577) | 1.0.9 | 18 Feb 2018 | yes (not verified)
 | Inspiron 5758 | ? | ?
 | Inspiron 5759 | 1.4.1 | 06 Feb 2018 | yes (not verified)
-| Inspiron 5770 | 1.0.9 | ? | no
+| Inspiron 5770 | 1.1.3 | 18 Feb 2018 | yes (not verified)
 | Inspiron 7347 | ? | ?
 | Inspiron 13 2-in-1 (7348) | ? | ?
 | Inspiron 13 2-in-1 (7353) | 1.18.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 13 2-in-1 (7359) | 1.18.2 | 06 Feb 2018 | yes (not verified)
-| Inspiron 7370 | 1.5.4 | ? | no
+| Inspiron 7370 | 1.7.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 13 2-in-1 (7373) | 1.7.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 24 AIO (7459) | 1.7.1 | 06 Feb 2018 | yes (not verified)
-| Inspiron 7472 | 1.1.0 | ? | no
+| Inspiron 7472 | 1.1.3 | 18 Feb 2018 | yes (not verified)
 | Inspiron 15 (7559) | 1.2.7 | 06 Feb 2018 | yes (not verified)
 | Inspiron 15 2-in-1 (7568) | 1.18.2 | 06 Feb 2018 | yes (not verified)
-| Inspiron 7570 | 1.5.4 | ? | no
+| Inspiron 7570 | 1.7.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 15 (7572) | 1.1.3 | 18 Feb 2018 | yes (not verified)
 | Inspiron 15 2-in-1 (7573) | 1.7.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 15 Gaming (7577) | 1.4.2 | 18 Feb 2018 | yes (not verified)
+| Inspiron 7548 | ? | ?
+| Inspiron 7558 | ? | ?
 | Latitude 3150 | ? | ?
 | Latitude 3160 | ? | ?
 | Latitude 3180 | 1.3.0 | 06 Feb 2018 | yes (not verified)
@@ -569,52 +572,52 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Latitude 3340 | A15 | ? | yes
 | Latitude 3350 | A12 | ? | no
 | Latitude 3379 | 1.0.21 | 06 Feb 2018 | yes (not verified)
-| Latitude 3380 | 1.3.5 | ? | no
-| Latitude 3390 2-in-1 | ? | ?
+| Latitude 3380 | 1.4.1 | 18 Feb 2018 | yes (not verified)
+| Latitude 3390 2-in-1 | 1.1.4 | 18 Feb 2018 | yes (not verified)
 | Latitude 3450 | A15 | ? | no
 | Latitude 3460 | A12 | ? | no
 | Latitude 3470 | 1.10.1 | 06 Feb 2018 | yes (not verified)
-| Latitude 3480 | 1.5.5 | ? | no
-| Latitude 3490 | ? | ?
+| Latitude 3480 | 1.6.1 | 18 Feb 2018 | yes (not verified)
+| Latitude 3490 | 1.3.0 | 18 Feb 2018 | yes (not verified)
 | Latitude 3540 | ? | ?
 | Latitude 3550 | A15 | ? | no
 | Latitude 3560 | A12 | ? | no
 | Latitude 3570 | 1.10.1 | 06 Feb 2018 | yes (not verified)
-| Latitude 3580 | 1.5.5 | ? | no
-| Latitude 3590 | ? | ?
+| Latitude 3580 | 1.6.1 | 18 Feb 2018 | yes (not verified)
+| Latitude 3590 | 1.3.0 | 18 Feb 2018 | yes (not verified)
 | Latitude 5175 | 1.0.29 | 06 Feb 2018 | yes (not verified)
 | Latitude 5179 | 1.0.29 | 06 Feb 2018 | yes (not verified)
-| Latitude 5280 | 1.8.1 | ? | no
-| Latitude 5285 | 1.3.1 | ? | no
-| Latitude 5288 | 1.8.1 | ? | no
-| Latitude 5289 | 1.10.1 | ? | no
-| Latitude 5290 | 1.1.7 | ? | no
-| Latitude 5290 2-in-1 | 1.1.0 | ? | no
+| Latitude 5280 | 1.8.2 | 18 Feb 2018 | yes (not verified)
+| Latitude 5285 | 1.3.4 | 18 Feb 2018 | yes (not verified)
+| Latitude 5288 | 1.8.2 | 18 Feb 2018 | yes (not verified)
+| Latitude 5289 | 1.10.2 | 18 Feb 2018 | yes (not verified)
+| Latitude 5290 | 1.1.4 | 18 Feb 2018 | yes (not verified)
+| Latitude 5290 2-in-1 | 1.1.3 | 18 Feb 2018 | yes (not verified)
 | Latitude 5404 | A14 | ? | no
 | Latitude 5414 | 1.15.0 | 06 Feb 2018 | yes (not verified)
-| Latitude 5480 | 1.8.1 | ? | no
-| Latitude 5488 | 1.8.1 | ? | no
-| Latitude 5490 | 1.1.7 | ? | no
-| Latitude 5580 | 1.8.1 | ? | no
-| Latitude 5590 | 1.1.7 | ? | no
+| Latitude 5480 | 1.8.2 | 18 Feb 2018 | yes (not verified)
+| Latitude 5488 | 1.8.2 | 18 Feb 2018 | yes (not verified)
+| Latitude 5490 | 1.1.4 | 18 Feb 2018 | yes (not verified)
+| Latitude 5580 | 1.8.2 | 18 Feb 2018 | yes (not verified)
+| Latitude 5590 | 1.1.4 | 18 Feb 2018 | yes (not verified)
 | Latitude 7202 | A18 | ? | no
 | Latitude 7204 | A12 | ? | no
-| Latitude 7212 | 1.7.0 | ? | no
+| Latitude 7212 | 1.9.0 | 18 Feb 2018 | yes (not verified)
 | Latitude 7214 | 1.15.0 | 06 Feb 2018 | yes (not verified)
 | Latitude 7275 | 1.1.34 | 06 Feb 2018 | yes (not verified)
-| Latitude 7280 | 1.8.1 | ? | no
-| Latitude 7285 | 1.1.0 | ? | no
-| Latitude 7290 | 1.2.6 | ? | no
+| Latitude 7280 | 1.8.2 | 18 Feb 2018 | yes (not verified)
+| Latitude 7285 | 1.1.3 | 18 Feb 2018 | yes (not verified)
+| Latitude 7290 | 1.2.7 | 18 Feb 2018 | yes (not verified)
 | Latitude 7350 | A14 | ? | no
 | Latitude 7370 | 1.15.3 | 06 Feb 2018 | yes (not verified)
-| Latitude 7380 | 1.8.1 | ? | no
-| Latitude 7389 | 1.10.1 | ? | no
-| Latitude 7390 | 1.2.6 | ? | no
-| Latitude 7390 2-in-1 | 1.1.3 | ? | no
+| Latitude 7380 | 1.8.2 | 18 Feb 2018 | yes (not verified)
+| Latitude 7389 | 1.10.2 | 18 Feb 2018 | yes (not verified)
+| Latitude 7390 | 1.2.7 | 18 Feb 2018 | yes (not verified)
+| Latitude 7390 2-in-1 | 1.1.4 | 18 Feb 2018 | yes (not verified)
 | Latitude 7404 | A13 | ? | no
 | Latitude 7414 | 1.15.0 | 06 Feb 2018 | yes (not verified)
-| Latitude 7480 | 1.8.1 | ? | no
-| Latitude 7490 | 1.2.6 | ? | no
+| Latitude 7480 | 1.8.2 | 18 Feb 2018 | yes (not verified)
+| Latitude 7490 | 1.2.7 | 18 Feb 2018 | yes (not verified)
 | Latitude E5250 | A18 | ? | no
 | Latitude E5270 | 1.18.6 | 06 Feb 2018 | yes (not verified)
 | Latitude E5430 | ? | ?
@@ -650,18 +653,18 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | OptiPlex 3030 | A11 | ?
 | OptiPlex 3040 | 1.6.1 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 3046 | 1.3.1 | 06 Feb 2018 | yes (not verified)
-| OptiPlex 3050 | 1.7.7 | ? | no
-| OptiPlex 3050 AIO | 1.8.1 | ? | no
+| OptiPlex 3050 | 1.7.9 | 18 Feb 2018 | yes (not verified)
+| OptiPlex 3050 AIO | 1.8.5 | 18 Feb 2018 | yes (not verified)
 | OptiPlex 3240 AIO | 1.5.21 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 5040 | 1.8.1 | 06 Feb 2018 | yes (not verified)
-| OptiPlex 5050 | 1.7.7 | ? | no
-| OptiPlex 5250 | 1.8.1 | ? | no
+| OptiPlex 5050 | 1.7.9 | 18 Feb 2018 | yes (not verified)
+| OptiPlex 5250 | 1.8.5 | 18 Feb 2018 | yes (not verified)
 | OptiPlex 7010 | A26 | ? | no |
 | OptiPlex 7020 | A14 | ? | no
 | OptiPlex 7040 | 1.8.1 | 06 Feb 2018 | yes (not verified)
-| OptiPlex 7050 | 1.7.7 | ? | no
+| OptiPlex 7050 | 1.7.9 | 18 Feb 2018 | yes (not verified)
 | OptiPlex 7440 AIO | 1.8.6 | 06 Feb 2018 | yes (not verified)
-| OptiPlex 7450 | 1.8.1 | ? | no
+| OptiPlex 7450 | 1.8.5 | 18 Feb 2018 | yes (not verified)
 | OptiPlex 9010 | A27 | ? | no
 | OptiPlex 9010 AIO | ? | ?
 | OptiPlex 9020 | A21 | ? | no
@@ -669,20 +672,20 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | OptiPlex 9020M | A15 | ? | no
 | OptiPlex 9030 | A18 | ? | no
 | OptiPlex XE2 | A21 | ? | no
-| Precision 3420 Tower | 2.6.1 | ? | no
+| Precision 3420 Tower | 2.7.3 | 18 Feb 2018 | yes (not verified)
 | Precision 3510 | 1.18.6 | 06 Feb 2018 | yes (not verified)
-| Precision 3520 | 1.8.1 | ? | no
-| Precision 3620 Tower | 2.6.1 | ? | no
+| Precision 3520 | 1.8.2 | 18 Feb 2018 | yes (not verified)
+| Precision 3620 Tower | 2.7.3 | 18 Feb 2018 | yes (not verified)
 | Precision 5510 | 1.6.1 | 06 Feb 2018 | yes (not verified)
-| Precision 5520 | 1.7.0 | ? | no
-| Precision 5720 AIO | 2.3.3 | ? | no
+| Precision 5520 | 1.7.1 | 18 Feb 2018 | yes (not verified)
+| Precision 5720 AIO | 2.3.6 | 18 Feb 2018 | yes (not verified)
 | Precision 5810 Tower | A24 | ? | no
 | Precision 5810 XL Tower | A24 | ? | no
 | Precision 5820 XL Tower | 1.2.1 | ? | no
 | Precision 7510 | 1.15.4 | 06 Feb 2018 | yes (not verified)
-| Precision 7520 | 1.9.0 | ? | no
+| Precision 7520 | 1.9.1 | 18 Feb 2018 | yes (not verified)
 | Precision 7710 | 1.15.4 | 06 Feb 2018 | yes (not verified)
-| Precision 7720 | 1.9.0 | ? | no
+| Precision 7720 | 1.9.1 | 18 Feb 2018 | yes (not verified)
 | Precision 7810 Tower | A24 | ? | no
 | Precision 7810 XL Tower | A24 | ? | no
 | Precision 7820 Tower | 1.2.2 | ? | no
@@ -708,47 +711,47 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Venue 11 Pro (7130) MS | ? | ?
 | Venue 11 Pro (7140) | A14 | ? | no
 | Vostro 14 (3459) | 1.3.1 | 06 Feb 2018 | yes (not verified)
-| Vostro 14 (3468) | 2.1.5 | ? | no
-| Vostro 14 (5468) | 1.4.2 | ? | no
+| Vostro 14 (3468) | 2.2.2 | 18 Feb 2018 | yes (not verified)
+| Vostro 14 (5468) | 1.5.4 | 18 Feb 2018 | yes (not verified)
 | Vostro 14 (5470) | ? | ?
 | Vostro 15 (3559) | 1.3.1 | 06 Feb 2018 | yes (not verified)
-| Vostro 15 (3568) | 2.1.5 | ? | no
-| Vostro 15 (5568) | 1.4.2 | ? | no
+| Vostro 15 (3568) | 2.2.2 | 18 Feb 2018 | yes (not verified)
+| Vostro 15 (5568) | 1.5.4 | 18 Feb 2018 | yes (not verified)
 | Vostro 23 (3340) | A07 | ? | no
 | Vostro 24 (5450) | 2.8.0 | 06 Feb 2018 | yes (not verified)
-| Vostro 24 (5460 Kaby Lake) | 2.4.2
+| Vostro 24 (5460 Kaby Lake) | 2.5.0 | 18 Feb 2018 | yes (not verified)
 | Vostro 24 (5460) | 1.4.0 | 06 Feb 2018 | yes (not verified)
 | Vostro 3052 | ? | ?
 | Vostro 3250 | 3.5.2 | 06 Feb 2018 | yes (not verified)
 | Vostro 3252 | ? | ?
-| Vostro 3267 | 1.6.0 | ? | no
-| Vostro 3268 | 1.6.0 | ? | no
+| Vostro 3267 | 1.7.0 | 18 Feb 2018 | yes (not verified)
+| Vostro 3268 | 1.7.0 | 18 Feb 2018 | yes (not verified)
 | Vostro 3458 | ? | ?
 | Vostro 3558 | ? | ?
 | Vostro 15 (3562) | 1.9.2 | 06 Feb 2018 | yes (not verified)
 | Vostro 3650 | 3.5.2 | 06 Feb 2018 | yes (not verified)
 | Vostro 3653 | 3.5.2 | 06 Feb 2018 | yes (not verified)
-| Vostro 3660 | 1.6.0 | ? | no
-| Vostro 3667 | 1.6.0 | ? | no
-| Vostro 3668 | 1.6.0 | ? | no
-| Vostro 3669 | 1.6.0 | ? | no
-| Vostro 5370 | 1.3.1 | ? | no
+| Vostro 3660 | 1.7.0 | 18 Feb 2018 | yes (not verified)
+| Vostro 3667 | 1.7.0 | 18 Feb 2018 | yes (not verified)
+| Vostro 3668 | 1.7.0 | 18 Feb 2018 | yes (not verified)
+| Vostro 3669 | 1.7.0 | 18 Feb 2018 | yes (not verified)
+| Vostro 5370 | 1.5.0 | 18 Feb 2018 | yes (not verified)
 | Vostro 5459 | 1.1.3 | 06 Feb 2018 | yes (not verified)
-| Vostro 5471 | 1.3.1 | ? | no
+| Vostro 5471 | 1.5.0 | 18 Feb 2018 | yes (not verified)
 | Vostro 5560 | ? | ?
-| Vostro 15 (7570) | 1.3.2 | ? | no
+| Vostro 15 (7570) | 1.4.2 | 18 Feb 2018 | yes (not verified)
 | XPS 12 (9250) | 1.1.34 | 06 Feb 2018 | yes (not verified)
 | XPS 13 (9343) | A13 | ? | no
 | XPS 13 (9350) | 1.6.1 | 06 Feb 2018 | yes (not verified)
-| XPS 13 (9360) | 2.5.0 | ? | no
-| XPS 13 (9370) | 1.1.3 | ? | no
-| XPS 13 2-in-1 (9365) | 1.2.1 | ? | no
+| XPS 13 (9360) | 2.5.1 | 18 Feb 2018 | yes (not verified)
+| XPS 13 (9370) | 1.2.0 | 18 Feb 2018 | yes (not verified)
+| XPS 13 2-in-1 (9365) | 1.3.1 | 18 Feb 2018 | yes (not verified)
 | XPS 15 (9550) | 1.6.1 | 06 Feb 2018 | yes (not verified)
-| XPS 15 (9560) | 1.7.0 | ? | no
-| XPS 27 AIO (7760) | 2.3.3 | ? | no
+| XPS 15 (9560) | 1.7.1 | 18 Feb 2018 | yes (not verified)
+| XPS 27 AIO (7760) | 2.3.6 | 18 Feb 2018 | yes (not verified)
 | XPS 8900 | 2.2.1 | 06 Feb 2018 | yes (not verified)
 | XPS 8910 | 1.1.5 | 06 Feb 2018 | yes (not verified)
-| XPS 8920 | 1.0.12 | ? | no
+| XPS 8920 | 1.0.14 | 18 Feb 2018 | yes (not verified)
 | XPS 8930 | ? | ?
 
 # HP
