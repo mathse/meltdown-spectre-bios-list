@@ -1019,72 +1019,76 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 # HPE
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
-| ProLiant ML10 Gen8 server | follows | | |
-| ProLiant ML310e Gen8 server | follows | | |
-| ProLiant MicroServer Gen8 | J06 | 2015/02/11 | no |
-| ProLiant XL260a Gen9 server | follows | | |
-| HPE Synergy 620 Gen9 Compute Modules | follows | | |
-| HPE Synergy 680 Gen9 Compute Modules | follows | | |
-| ProLiant Thin Micro TM200 | follows | | |
-| ProLiant m510 Server Cartridge | follows | | |
-| ProLiant m300 Server Cartridge | follows | | |
-| ProLiant m350 Server Cartridge | follows | | |
-| ProLiant DL160 Gen8 | follows | | |
-| ProLiant DL320e Gen8 | follows | | |
-| ProLiant DL360e Gen8 | follows | | |
-| ProLiant DL360p Gen8 | follows | | |
-| ProLiant DL380e Gen8 | follows | | |
-| ProLiant DL380p Gen8 | follows | | |
-| ProLiant DL560 Gen8 | follows | | |
-| ProLiant DL580 Gen8 | follows | | |
-| ProLiant ML350e Gen8 | follows | | |
-| ProLiant ML350p Gen8 | follows | | |
-| ProLiant SL230s Gen8 | follows | | |
-| ProLiant SL250s Gen8 | follows | | |
-| ProLiant SL270s Gen8 | follows | | |
-| ProLiant BL420c Gen8 | follows | | |
-| ProLiant BL460c Gen8 | follows | | |
-| ProLiant BL660c Gen8 | follows | | |
-| ProLiant SL210t Gen8 | follows | | |
-| ProLiant XL230a Gen9 | follows | | |
-| ProLiant XL250a gen9 | follows | | |
-| ProLiant XL170r Gen9 | follows | | |
-| ProLiant XL190r Gen9 | follows | | |
-| ProLiant DL60 Gen9 | follows | | |
-| ProLiant DL80 Gen9 | follows | | |
-| ProLiant XL730f Gen9 | follows | | |
-| ProLiant XL740f Gen9 | follows | | |
-| ProLiant XL750f Gen9 | follows | | |
-| Apollo 4200 Gen9 | follows | | |
-| ProLiant DL160 Gen9 | follows | | |
-| ProLiant DL180 Gen9 | follows | | |
-| ProLiant XL450 Gen9 | follows | | |
-| ProLiant XL270d Accelerator Tray | follows | | |
-| ProLiant DL560 Gen9 | follows | | |
-| ProLiant DL120 Gen9 | follows | | |
-| ProLiant DL360 Gen9 | follows | | |
-| ProLiant DL380 Gen9 | follows | | |
-| ProLiant ML350 Gen9 | follows | | |
-| ProLiant ML150 Gen9 | follows | | |
-| ProLiant m710 p server cartridge | follows | | |
-| ProLiant m710 server cartridge | follows | | |
-| ProLiant ML310e Gen8 server | follows | | |
-| ProLiant DL320e Gen8 server | follows | | |
-| ProLiant ML10 v2 | follows | | |
-| ProLiant XL220a Gen8 v2 | follows | | |
-| ProLiant DL380 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
-| ProLiant DL160 Gen10, ProLiant DL180 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
-| ProLiant DL360 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
-| ProLiant ML110 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
-| ProLiant DL560 Gen10, ProLiant DL580 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
-| ProLiant DL120 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
-| ProLiant XL230k Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
-| ProLiant XL170r Gen10, ProLiant XL190r Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
-| ProLiant XL450 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
-| ProLiant ML350 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
-| ProLiant BL460c Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
-| Synergy 480 Gen10 Compute Module | v1.28 | 12/11/2017 | yes (not verified) |
-| Synergy 660 Gen10 Compute Module | v1.28 | 12/11/2017 | yes (not verified) |
+| ProLiant DL385 Gen10 (AMD System) | Available |
+| ProLiant DL380 Gen10 | Available |
+| ProLiant DL160 Gen10, ProLiant DL180 Gen10 | Available |
+| ProLiant DL360 Gen10 | Available |
+| ProLiant ML110 Gen10 | Available |
+| ProLiant DL560 Gen10, ProLiant DL580 Gen10 | Available |
+| ProLiant DL120 Gen10 | Available |
+| ProLiant XL230k Gen10 | Available |
+| ProLiant XL170r Gen10, ProLiant XL190r Gen10 | Available |
+| ProLiant XL450 Gen10 | Available |
+| ProLiant ML350 Gen10 | Available |
+| ProLiant BL460c Gen10 | Available |
+| HPE Synergy 480 Gen10 | Available |
+| HPE Synergy 660 Gen10 | Available |
+| ProLiant XL230a Gen9, ProLiant XL250a Gen9 | Removed Updated BIOS |
+| ProLiant XL170r Gen9, ProLiant XL190r Gen9 | Removed Updated BIOS |
+| ProLiant DL60 Gen9, ProLiant DL80 Gen9 | Removed Updated BIOS |
+| ProLiant XL730f Gen9,ProLiant XL740f Gen9, ProLiant XL750f Gen9 | Removed Updated BIOS |
+| Apollo 4200 Gen9 | Removed Updated BIOS |
+| ProLiant DL160 Gen9, ProLiant DL180 Gen9 | Removed Updated BIOS |
+| ProLiant XL450 Gen9 | Removed Updated BIOS |
+| ProLiant XL270d Accelerator Tray | Removed Updated BIOS |
+| ProLiant DL560 Gen9 | Removed Updated BIOS |
+| ProLiant DL120 Gen9 | Removed Updated BIOS |
+| ProLiant DL380 Gen9, ProLiant DL360 Gen9 | Removed Updated BIOS |
+| ProLiant ML350 Gen9 | Removed Updated BIOS |
+| ProLiant ML150 Gen9 | Removed Updated BIOS |
+| ProLiant ML110 Gen9 | Removed Updated BIOS |
+| ProLiant BL460c Gen9, ProLiant WS460c Gen9 | Removed Updated BIOS |
+| HPE Synergy 480 Gen9 | Removed Updated BIOS |
+| ProLiant BL660c Gen9 | Removed Updated BIOS |
+| HPE Synergy 660 Gen9 | Removed Updated BIOS |
+| ProLiant DL580 Gen9 | Removed Updated BIOS |
+| HPE Synergy 620 Gen9, HPE Synergy 680 Gen9 | Removed Updated BIOS |
+| ProLiant XL260a Gen9	|	Not Yet Available |
+| ProLiant Thin Micro TM200	|	Not Yet Available |
+| ProLiant m510 Server Cartridge	|	Not Yet Available |
+| ProLiant DL20 Gen9 | Removed Updated BIOS |
+| ProLiant ML30 Gen9 | Removed Updated BIOS |
+| ProLiant m710x Server Cartridge | Removed Updated BIOS |
+| ProLiant m300 Server Cartridge	|	Not Yet Available |
+| ProLiant m350 Server Cartridge	|	Not Yet Available |
+ProLiant m710p Server Cartridge	|	Removed Updated BIOS |
+| ProLiant m700 Server Cartridge (AMD System) | Not Yet Available |
+| m700p Server Cartridge (AMD System) | Not Yet Available |
+| ProLiant BL420c Gen8 | Not Yet Available |
+| ProLiant BL460c Gen8 | Not Yet Available |
+| ProLiant BL660c Gen8 | Not Yet Available |
+| ProLiant ML350e Gen8, ProLiant ML350e Gen8 v2 | Not Yet Available |
+| ProLiant DL160 Gen8 | Not Yet Available |
+| ProLiant DL380p Gen8 | Not Yet Available |
+| ProLiant DL360p Gen8 | Not Yet Available |
+| ProLiant ML350p Gen8 | Not Yet Available |
+| ProLiant DL360e Gen8, ProLiant DL380e Gen8 | Not Yet Available |
+| ProLiant SL4540 Gen8 | Not Yet Available |
+| ProLiant SL230s Gen8, ProLiant SL250s Gen8, ProLiant SL270s Gen8 | Not Yet Available |
+| ProLiant DL560 Gen8 | Not Yet Available |
+| ProLiant SL210t Gen8 | Not Yet Available |
+| ProLiant DL580 Gen8 | Not Yet Available |
+| ProLiant ML10 | Not Yet Available |
+| ProLiant ML310e Gen8 | Not Yet Available |
+| ProLiant DL320e Gen8 | Not Yet Available |
+| ProLiant Microserver Gen8 | Not Yet Available |
+| ProLiant ML310e Gen8 v2 | Removed Updated BIOS |
+| ProLiant DL320e Gen8 v2 | Removed Updated BIOS |
+| ProLiant ML10 v2 | Removed Updated BIOS |
+| ProLiant m710 Server Cartridge | Removed Updated BIOS |
+| ProLiant BL465c Gen8 (AMD System) | Not Yet Available |
+| ProLiant DL385 Gen8 (AMD System) | Not Yet Available |
+
 
 # Lenovo
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
