@@ -1072,6 +1072,19 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | ProLiant DL320e Gen8 server | follows | | |
 | ProLiant ML10 v2 | follows | | |
 | ProLiant XL220a Gen8 v2 | follows | | |
+| ProLiant DL380 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
+| ProLiant DL160 Gen10, ProLiant DL180 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
+| ProLiant DL360 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
+| ProLiant ML110 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
+| ProLiant DL560 Gen10, ProLiant DL580 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
+| ProLiant DL120 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
+| ProLiant XL230k Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
+| ProLiant XL170r Gen10, ProLiant XL190r Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
+| ProLiant XL450 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
+| ProLiant ML350 Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
+| ProLiant BL460c Gen10 | v1.28 | 12/11/2017 | yes (not verified) |
+| Synergy 480 Gen10 Compute Module | v1.28 | 12/11/2017 | yes (not verified) |
+| Synergy 660 Gen10 Compute Module | v1.28 | 12/11/2017 | yes (not verified) |
 
 # Lenovo
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
