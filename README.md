@@ -426,28 +426,37 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 # Dell
 
 Patch Guidance
-Update 02/07/2018
-Dell has received updated Intel microcode for select platforms to mitigate against the Spectre (Variant 2) vulnerability CVE-2017-5715. Dell has started to deploy the new BIOS updates for these platforms listed in the table of Dell Products Affected below. Other BIOS updates for listed affected platforms will roll out over the coming weeks.
-All customers with an affected platform should download the latest BIOS update listed below, even if they have deployed an earlier BIOS version for this vulnerability. Those who have disabled the microcode patch using an OS configuration option should re-enable it manually after applying the BIOS updates.
-As a reminder, the microcode update is required for Spectre (Variant 2), CVE-2017-5715. The Operating System patches provide mitigations to Spectre (Variant 1) and Meltdown (Variant 3) and are also required.
+Update 03/07/2018:
+
+There are three essential components that need to be applied to mitigate the above-mentioned vulnerabilities:
+
+Apply the processor microcode update via BIOS update listed in the Dell Products Affected section below.
+Apply the applicable operating system patch. See the OS Patch Guidance section below.
+For applicable systems, apply the NVIDIA driver package listed in the Dell Client Products with NVIDIA GPU section below. For platforms that include the GeForce Experience (GFE) software, the driver package will also include the mitigated version of GFE.
+The Operating System patches provide mitigation to Spectre (Variant 1) and Meltdown (Variant 3). The NVIDIA driver update provides mitigation for Spectre (Variant 1). The microcode update is only required for Spectre (Variant 2), CVE-2017-5715.
 
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
+| Alienware 13 | A08 | 23 Feb 2018 | yes (not verified)
 | Alienware 13 R2 | 1.4.4 | 06 Feb 2018 | yes (not verified)
 | Alienware 13 R3 | 1.2.4 | 18 Feb 2018 | yes (not verified)
+| Alienware 15 | A10 | 23 Feb 2018 | yes (not verified)
 | Alienware 15 R2 | 1.4.4 | 06 Feb 2018 | yes (not verified)
 | Alienware 15 R3 | 1.2.4 | 18 Feb 2018 | yes (not verified)
-| Alienware 17 R2 | ? | ?
+| Alienware 17 | A15 | 23 Feb 2018 | yes (not verified)
+| Alienware 17 R2 | A10 | 23 Feb 2018 | yes (not verified)
 | Alienware 17 R3 | 1.4.4 | 06 Feb 2018 | yes (not verified)
 | Alienware 17 R4 | 1.2.4 | 18 Feb 2018 | yes (not verified)
-| Alienware Area-51 R2 | ? | ? |
+| Alienware 18 | A13 | 23 Feb 2018 | yes (not verified)
+| Alienware Area-51 R2 | A13 | 23 Feb 2018 | yes (not verified)
 | Alienware Area-51 R4 | 1.1.3 | ? | no
 | Alienware Area-51 R5 | ? | ?
 | Alienware Aurora R5 | 1.0.16 | 06 Feb 2018 | yes (not verified)
-| Alienware Aurora R6 | 1.0.14 | 18 Feb 2018 | yes (not verified)
+| Alienware Aurora R6 | 1.0.15 | 02 Mar 2018 | yes (not verified)
 | Alienware Aurora R7 | ? | ?
 | Alienware Steam Machine 200 | 2.0.10 | 06 Feb 2018 | yes (not verified)
 | Alienware Steam Machine 201 | 1.0.11 | 06 Feb 2018 | yes (not verified)
+| Alienware Steam Machine 100 is missing | ? | ?
 | Alienware X51 R3 | 1.2.11 | 06 Feb 2018 | yes (not verified)
 | ChengMing 3967 | 1.2.2 | 06 Feb 2018 | yes (not verified)
 | ChengMing 3977 | 1.3.3 | 18 Feb 2018 | yes (not verified)
@@ -564,6 +573,23 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Inspiron 15 Gaming (7577) | 1.4.2 | 18 Feb 2018 | yes (not verified)
 | Inspiron 7548 | ? | ?
 | Inspiron 7558 | ? | ?
+| Inspiron 14 (3452) | ? | ?
+| Inspiron 14 (7447) | ? | ?
+| Inspiron 15 (3552) | ? | ?
+| Inspiron 20 AIO (3043) | ? | ?
+| Inspiron 3277 | ? | ?
+| Inspiron 3442 | ? | ?
+| Inspiron 3443 | ? | ?
+| Inspiron 3477 | ? | ?
+| Inspiron 3542 | ? | ?
+| Inspiron 3543 | ? | ?
+| Inspiron 3647 | ? | ?
+| Inspiron 3847 | ? | ?
+| Inspiron 5448 | ? | ?
+| Inspiron 5548 | ? | ?
+| Inspiron 5748 | ? | ?
+| Inspiron 5749 | ? | ?
+| Inspiron 7557 | ? | ?
 | Latitude 3150 | ? | ?
 | Latitude 3160 | ? | ?
 | Latitude 3180 | 1.3.0 | 06 Feb 2018 | yes (not verified)
@@ -579,6 +605,7 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Latitude 3470 | 1.10.1 | 06 Feb 2018 | yes (not verified)
 | Latitude 3480 | 1.6.1 | 18 Feb 2018 | yes (not verified)
 | Latitude 3490 | 1.3.0 | 18 Feb 2018 | yes (not verified)
+| Latitude 3440 | ? | ?
 | Latitude 3540 | ? | ?
 | Latitude 3550 | A15 | ? | no
 | Latitude 3560 | A12 | ? | no
@@ -647,10 +674,10 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Latitude E7450 | A18 | ? | no
 | Latitude E7470 | 1.18.5 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 3010 | ? | ?
-| OptiPlex 3011 AIO | ? | ?
+| OptiPlex 3011 AIO | A12 | ?
 | OptiPlex 3020 | A16 | ? | no
 | OptiPlex 3020M | A11 | ? | no
-| OptiPlex 3030 | A11 | ?
+| OptiPlex 3030 | A11 | 07 Mar 2018 | yes (not verified)
 | OptiPlex 3040 | 1.6.1 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 3046 | 1.3.1 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 3050 | 1.7.9 | 18 Feb 2018 | yes (not verified)
@@ -672,6 +699,17 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | OptiPlex 9020M | A15 | ? | no
 | OptiPlex 9030 | A18 | ? | no
 | OptiPlex XE2 | A21 | ? | no
+| OptiPlex 380 | ? | ?
+| OptiPlex 780 | ? | ?
+| OptiPlex 790 | ? | ?
+| OptiPlex 960 | ? | ?
+| OptiPlex 980 | ? | ?
+| OptiPlex 990 | ? | ?
+| Precision M3800 | ? | ?
+| Precision T3600 | ? | ?
+| Precision T5500 | ? | ?
+| Precision T5600 | ? | ?
+| Precision T7600 | ? | ?
 | Precision 3420 Tower | 2.7.3 | 18 Feb 2018 | yes (not verified)
 | Precision 3510 | 1.18.6 | 06 Feb 2018 | yes (not verified)
 | Precision 3520 | 1.8.2 | 18 Feb 2018 | yes (not verified)
@@ -705,11 +743,21 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | Precision T3610 | A15 | ? | no
 | Precision T5610 | A15 | ? | no
 | Precision T7610 | A15 | ? | no
+| Venue 8 Pro (5855) | ? | ?
+| Venue 10 Pro (5056) | ? | ?
 | Venue 11 Pro (5130-32Bit) | ? | ?
 | Venue 11 Pro (5130-64Bit) | ? | ?
 | Venue 11 Pro (7130) | A24 | ? | no
 | Venue 11 Pro (7130) MS | ? | ?
 | Venue 11 Pro (7140) | A14 | ? | no
+| Vostro 14 (3449) | ? | ?
+| Vostro 15 (3549) | ? | ?
+| Vostro 3446 | ? | ?
+| Vostro 3546 | ? | ?
+| Vostro 3800 | ? | ?
+| Vostro 3900 | ? | ?
+| Vostro 3902 | ? | ?
+| Vostro 5480 | ? | ?
 | Vostro 14 (3459) | 1.3.1 | 06 Feb 2018 | yes (not verified)
 | Vostro 14 (3468) | 2.2.2 | 18 Feb 2018 | yes (not verified)
 | Vostro 14 (5468) | 1.5.4 | 18 Feb 2018 | yes (not verified)
@@ -753,6 +801,13 @@ As a reminder, the microcode update is required for Spectre (Variant 2), CVE-201
 | XPS 8910 | 1.1.5 | 06 Feb 2018 | yes (not verified)
 | XPS 8920 | 1.0.14 | 18 Feb 2018 | yes (not verified)
 | XPS 8930 | ? | ?
+| XPS 11 (9P33) | ? | ?
+| XPS 12 (9Q33) | ? | ?
+| XPS 15 (9530) | ? | ?
+| XPS 27 AIO (2720) | ? | ?
+| XPS 8700 | ? | ?
+| XPS L421X | ? | ?
+| XPS L521X | ? | ?
 
 # HP
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
