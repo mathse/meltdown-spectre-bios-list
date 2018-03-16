@@ -788,26 +788,26 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Vostro 5471 | 1.5.0 | 18 Feb 2018 | yes (not verified)
 | Vostro 5480 | ? | ?
 | Vostro 5560 | ? | ?
-| XPS 11 (9P33) | ? | ?
+| XPS 11 (9P33) | A03 | 23 Feb 2018 | yes (not verified)
 | XPS 12 (9250) | 1.1.34 | 06 Feb 2018 | yes (not verified)
-| XPS 12 (9Q33) | ? | ?
-| XPS 13 (9343) | A13 | ? | no
+| XPS 12 (9Q33) | A09 | 23 Feb 2018 | yes (not verified)
+| XPS 13 (9343) | A15 | 23 Feb 2018 | yes (not verified)
 | XPS 13 (9350) | 1.6.1 | 06 Feb 2018 | yes (not verified)
 | XPS 13 (9360) | 2.5.1 | 18 Feb 2018 | yes (not verified)
 | XPS 13 (9370) | 1.2.0 | 18 Feb 2018 | yes (not verified)
 | XPS 13 2-in-1 (9365) | 1.3.1 | 18 Feb 2018 | yes (not verified)
-| XPS 15 (9530) | ? | ?
+| XPS 15 (9530) | A10 | 23 Feb 2018 | yes (not verified)
 | XPS 15 (9550) | 1.6.1 | 06 Feb 2018 | yes (not verified)
 | XPS 15 (9560) | 1.7.1 | 18 Feb 2018 | yes (not verified)
-| XPS 27 AIO (2720) | ? | ?
+| XPS 27 AIO (2720) | A14 | 23 Feb 2018 | yes (not verified)
 | XPS 27 AIO (7760) | 2.3.6 | 18 Feb 2018 | yes (not verified)
-| XPS 8700 | ? | ?
+| XPS 8700 | A12 | 23 Feb 2018 | yes (not verified)
 | XPS 8900 | 2.2.1 | 06 Feb 2018 | yes (not verified)
 | XPS 8910 | 1.1.5 | 06 Feb 2018 | yes (not verified)
 | XPS 8920 | 1.0.14 | 18 Feb 2018 | yes (not verified)
-| XPS 8930 | ? | ?
-| XPS L421X | ? | ?
-| XPS L521X | ? | ?
+| XPS 8930 | 1.0.7 | 22 Feb 2018 | yes (not verified)
+| XPS L421X | A17 | 08 Mar 2018 | yes (not verified)
+| XPS L521X | A17 | 07 Mar 2018 | yes (not verified)
 
 # HP
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
