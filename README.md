@@ -750,43 +750,43 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Venue 11 Pro (7130) MS | ? | ?
 | Venue 11 Pro (7140) | A14 | ? | no
 | Venue 8 Pro (5855) | ? | ?
-| Vostro 14 (3449) | ? | ?
+| Vostro 14 (3449) | A10 | 24 Feb 2018 | yes (not verified)
 | Vostro 14 (3459) | 1.3.1 | 06 Feb 2018 | yes (not verified)
 | Vostro 14 (3468) | 2.2.2 | 18 Feb 2018 | yes (not verified)
 | Vostro 14 (5468) | 1.5.4 | 18 Feb 2018 | yes (not verified)
 | Vostro 14 (5470) | ? | ?
-| Vostro 15 (3549) | ? | ?
+| Vostro 15 (3549) | A10 | 24 Feb 2018 | yes (not verified)
 | Vostro 15 (3559) | 1.3.1 | 06 Feb 2018 | yes (not verified)
 | Vostro 15 (3562) | 1.9.2 | 06 Feb 2018 | yes (not verified)
 | Vostro 15 (3568) | 2.2.2 | 18 Feb 2018 | yes (not verified)
 | Vostro 15 (5568) | 1.5.4 | 18 Feb 2018 | yes (not verified)
 | Vostro 15 (7570) | 1.4.2 | 18 Feb 2018 | yes (not verified)
-| Vostro 23 (3340) | A07 | ? | no
+| Vostro 23 (3340) | A08 | 27 Feb 2018 | yes (not verified)
 | Vostro 24 (5450) | 2.8.0 | 06 Feb 2018 | yes (not verified)
 | Vostro 24 (5460 Kaby Lake) | 2.5.0 | 18 Feb 2018 | yes (not verified)
 | Vostro 24 (5460) | 1.4.0 | 06 Feb 2018 | yes (not verified)
 | Vostro 3052 | ? | ?
 | Vostro 3250 | 3.5.2 | 06 Feb 2018 | yes (not verified)
-| Vostro 3252 | ? | ?
+| Vostro 3252 | 2.13.0 | 26 Feb 2018 | yes (not verified)
 | Vostro 3267 | 1.7.0 | 18 Feb 2018 | yes (not verified)
 | Vostro 3268 | 1.7.0 | 18 Feb 2018 | yes (not verified)
-| Vostro 3446 | ? | ?
-| Vostro 3458 | ? | ?
-| Vostro 3546 | ? | ?
-| Vostro 3558 | ? | ?
+| Vostro 3446 | A13 | 24 Feb 2018 | yes (not verified)
+| Vostro 3458 | A13 | 22 Feb 2018 | yes (not verified)
+| Vostro 3546 | A13 | 24 Feb 2018 | yes (not verified)
+| Vostro 3558 | A13 | 22 Feb 2018 | yes (not verified)
 | Vostro 3650 | 3.5.2 | 06 Feb 2018 | yes (not verified)
 | Vostro 3653 | 3.5.2 | 06 Feb 2018 | yes (not verified)
 | Vostro 3660 | 1.7.0 | 18 Feb 2018 | yes (not verified)
 | Vostro 3667 | 1.7.0 | 18 Feb 2018 | yes (not verified)
 | Vostro 3668 | 1.7.0 | 18 Feb 2018 | yes (not verified)
 | Vostro 3669 | 1.7.0 | 18 Feb 2018 | yes (not verified)
-| Vostro 3800 | ? | ?
-| Vostro 3900 | ? | ?
-| Vostro 3902 | ? | ?
+| Vostro 3800 | A14 | 21 Feb 2018 | yes (not verified)
+| Vostro 3900 | A14 | 21 Feb 2018 | yes (not verified)
+| Vostro 3902 | A14 | 21 Feb 2018 | yes (not verified)
 | Vostro 5370 | 1.5.0 | 18 Feb 2018 | yes (not verified)
 | Vostro 5459 | 1.1.3 | 06 Feb 2018 | yes (not verified)
 | Vostro 5471 | 1.5.0 | 18 Feb 2018 | yes (not verified)
-| Vostro 5480 | ? | ?
+| Vostro 5480 | A08 | 24 Feb 2018 | yes (not verified)
 | Vostro 5560 | ? | ?
 | XPS 11 (9P33) | A03 | 23 Feb 2018 | yes (not verified)
 | XPS 12 (9250) | 1.1.34 | 06 Feb 2018 | yes (not verified)
@@ -804,7 +804,7 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | XPS 8700 | A12 | 23 Feb 2018 | yes (not verified)
 | XPS 8900 | 2.2.1 | 06 Feb 2018 | yes (not verified)
 | XPS 8910 | 1.1.5 | 06 Feb 2018 | yes (not verified)
-| XPS 8920 | 1.0.14 | 18 Feb 2018 | yes (not verified)
+| XPS 8920 | 1.0.15 | 02 Mar 2018 | yes (not verified)
 | XPS 8930 | 1.0.7 | 22 Feb 2018 | yes (not verified)
 | XPS L421X | A17 | 08 Mar 2018 | yes (not verified)
 | XPS L521X | A17 | 07 Mar 2018 | yes (not verified)
