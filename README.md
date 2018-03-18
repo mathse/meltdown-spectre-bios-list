@@ -712,37 +712,37 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Precision 5510 | 1.6.1 | 06 Feb 2018 | yes (not verified)
 | Precision 5520 | 1.7.1 | 18 Feb 2018 | yes (not verified)
 | Precision 5720 AIO | 2.3.6 | 18 Feb 2018 | yes (not verified)
-| Precision 5810 Tower | A24 | ? | no
-| Precision 5810 XL Tower | A24 | ? | no
-| Precision 5820 XL Tower | 1.2.1 | ? | no
+| Precision 5810 Tower | A25 | 27 Feb 2018 | yes (not verified)
+| Precision 5810 XL Tower | A25 | 27 Feb 2018 | yes (not verified)
+| Precision 5820 XL Tower | 1.3.2 | 22 Feb 2018 | yes (not verified)
 | Precision 7510 | 1.15.4 | 06 Feb 2018 | yes (not verified)
 | Precision 7520 | 1.9.1 | 18 Feb 2018 | yes (not verified)
 | Precision 7710 | 1.15.4 | 06 Feb 2018 | yes (not verified)
 | Precision 7720 | 1.9.1 | 18 Feb 2018 | yes (not verified)
-| Precision 7810 Tower | A24 | ? | no
-| Precision 7810 XL Tower | A24 | ? | no
-| Precision 7820 Tower | 1.2.2 | ? | no
-| Precision 7910 Tower | A24 | ? | no
-| Precision 7910 XL Tower | A24 | ? | no
-| Precision 7920 Tower | 1.2.2 | ? | no
-| Precision M2800 | A12 | ? | no
-| Precision M3800 | ? | ?
+| Precision 7810 Tower | A25 | 27 Feb 2018 | yes (not verified)
+| Precision 7810 XL Tower | A25 | 27 Feb 2018 | yes (not verified)
+| Precision 7820 Tower | 1.3.3 | 22 Feb 2018 | yes (not verified)
+| Precision 7910 Tower | A25 | 27 Feb 2018 | yes (not verified)
+| Precision 7910 XL Tower | A25 | 27 Feb 2018 | yes (not verified)
+| Precision 7920 Tower | 1.3.3 | 22 Feb 2018 | yes (not verified)
+| Precision M2800 | A14 | 01 Mar 2018 | yes (not verified)
+| Precision M3800 | A11 | 08 Mar 2018 | yes (not verified)
 | Precision M4700 | ? | ?
-| Precision M4800 | A21 | ? | no
+| Precision M4800 | A23 | 01 Mar 2018 | yes (not verified)
 | Precision M6700 | ? | ?
-| Precision M6800 | A21 | ? | no
-| Precision R7610 | A15 | ? | no
-| Precision Rack 7910 | 2.7.0 | ? | no
+| Precision M6800 | A23 | 01 Mar 2018 | yes (not verified)
+| Precision R7610 | A16 | 06 Mar 2018 | yes (not verified)
+| Precision Rack 7910 | 2.7.1 | 27 Feb 2018 | yes (not verified)
 | Precision Rack 7920 | 1.2.71 | ? | no
 | Precision T1650 | A25 | ? | no
-| Precision T1700 | A24 | ? | no
+| Precision T1700 | A25 | 27 Feb 2018 | yes (not verified)
 | Precision T3600 | ? | ?
-| Precision T3610 | A15 | ? | no
+| Precision T3610 | A16 | 06 Mar 2018 | yes (not verified)
 | Precision T5500 | ? | ?
 | Precision T5600 | ? | ?
 | Precision T5610 | A15 | ? | no
 | Precision T7600 | ? | ?
-| Precision T7610 | A15 | ? | no
+| Precision T7610 | A16 | 06 Mar 2018 | yes (not verified)
 | Venue 10 Pro (5056) | 1.11.0 | 07 Mar 2018 | yes (not verified)
 | Venue 11 Pro (5130-32Bit) | ? | ?
 | Venue 11 Pro (5130-64Bit) | ? | ?
