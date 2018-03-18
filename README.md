@@ -743,13 +743,13 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Precision T5610 | A15 | ? | no
 | Precision T7600 | ? | ?
 | Precision T7610 | A15 | ? | no
-| Venue 10 Pro (5056) | ? | ?
+| Venue 10 Pro (5056) | 1.11.0 | 07 Mar 2018 | yes (not verified)
 | Venue 11 Pro (5130-32Bit) | ? | ?
 | Venue 11 Pro (5130-64Bit) | ? | ?
-| Venue 11 Pro (7130) | A24 | ? | no
-| Venue 11 Pro (7130) MS | ? | ?
-| Venue 11 Pro (7140) | A14 | ? | no
-| Venue 8 Pro (5855) | ? | ?
+| Venue 11 Pro (7130) | A25 | 27 Feb 2018 | yes (not verified)
+| Venue 11 Pro (7130) MS | A23 | 27 Feb 2018 | yes (not verified)
+| Venue 11 Pro (7140) | A15 | 27 Feb 2018 | yes (not verified)
+| Venue 8 Pro (5855) | 1.11.0 | 07 Mar 2018 | yes (not verified)
 | Vostro 14 (3449) | A10 | 24 Feb 2018 | yes (not verified)
 | Vostro 14 (3459) | 1.3.1 | 06 Feb 2018 | yes (not verified)
 | Vostro 14 (3468) | 2.2.2 | 18 Feb 2018 | yes (not verified)
