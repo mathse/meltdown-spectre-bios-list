@@ -675,9 +675,9 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Latitude E7470 | 1.18.5 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 3010 | ? | ?
 | OptiPlex 3011 AIO | A12 | ?
-| OptiPlex 3020 | A16 | ? | no
-| OptiPlex 3020M | A11 | ? | no
-| OptiPlex 3030 | A11 | 07 Mar 2018 | yes (not verified)
+| OptiPlex 3020 | A17 | 27 Feb 2018 | yes (not verified)
+| OptiPlex 3020M | A12 | 27 Feb 2018 | yes (not verified)
+| OptiPlex 3030 | A12 | 27 Feb 2018 | yes (not verified)
 | OptiPlex 3040 | 1.6.1 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 3046 | 1.3.1 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 3050 | 1.7.9 | 18 Feb 2018 | yes (not verified)
@@ -688,7 +688,7 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | OptiPlex 5050 | 1.7.9 | 18 Feb 2018 | yes (not verified)
 | OptiPlex 5250 | 1.8.5 | 18 Feb 2018 | yes (not verified)
 | OptiPlex 7010 | A26 | ? | no |
-| OptiPlex 7020 | A14 | ? | no
+| OptiPlex 7020 | A15 | 27 Feb 2018 | yes (not verified)
 | OptiPlex 7040 | 1.8.1 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 7050 | 1.7.9 | 18 Feb 2018 | yes (not verified)
 | OptiPlex 7440 AIO | 1.8.6 | 06 Feb 2018 | yes (not verified)
@@ -697,14 +697,14 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | OptiPlex 790 | ? | ?
 | OptiPlex 9010 | A27 | ? | no
 | OptiPlex 9010 AIO | ? | ?
-| OptiPlex 9020 | A21 | ? | no
-| OptiPlex 9020 AIO | A16 | ? | no
-| OptiPlex 9020M | A15 | ? | no
-| OptiPlex 9030 | A18 | ? | no
+| OptiPlex 9020 | A22 | 27 Feb 2018 | yes (not verified)
+| OptiPlex 9020 AIO | A17 | 27 Feb 2018 | yes (not verified)
+| OptiPlex 9020M | A16 | 27 Feb 2018 | yes (not verified)
+| OptiPlex 9030 | A19 | 27 Feb 2018 | yes (not verified)
 | OptiPlex 960 | ? | ?
 | OptiPlex 980 | ? | ?
-| OptiPlex 990 | ? | ?
-| OptiPlex XE2 | A21 | ? | no
+| OptiPlex 990 | A23 | 07 Mar 2018 | yes (not verified)
+| OptiPlex XE2 | A22 | 27 Feb 2018 | yes (not verified)
 | Precision 3420 Tower | 2.7.3 | 18 Feb 2018 | yes (not verified)
 | Precision 3510 | 1.18.6 | 06 Feb 2018 | yes (not verified)
 | Precision 3520 | 1.8.2 | 18 Feb 2018 | yes (not verified)
