@@ -25,7 +25,7 @@ $list.Split("`n") | Select-String "$model |$mainboard "
 # ASUS
 | model | latest BIOS | release date | vulnerabilities mitigated ? |
 | --- | --- | --- | --- |
-| B9440UA | ? | Jan/E, 2018 | |
+| B9440UA | 309 | 2018/03/23 | yes (not verified) |
 | P2440UA | ? | Jan/E, 2018 | |
 | P2440UQ | ? | Jan/E, 2018 | |
 | P2540UV | ? | Jan/E, 2018 | |
@@ -440,6 +440,7 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Alienware 13 | A08 | 23 Feb 2018 | yes (not verified)
 | Alienware 13 R2 | 1.4.4 | 06 Feb 2018 | yes (not verified)
 | Alienware 13 R3 | 1.2.4 | 18 Feb 2018 | yes (not verified)
+| Alienware 14 | A10 | 14 Mrz 2018
 | Alienware 15 | A10 | 23 Feb 2018 | yes (not verified)
 | Alienware 15 R2 | 1.4.4 | 06 Feb 2018 | yes (not verified)
 | Alienware 15 R3 | 1.2.4 | 18 Feb 2018 | yes (not verified)
@@ -450,7 +451,7 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Alienware 18 | A13 | 23 Feb 2018 | yes (not verified)
 | Alienware Area-51 R2 | A13 | 23 Feb 2018 | yes (not verified)
 | Alienware Area-51 R4 | 1.1.3 | ? | no
-| Alienware Area-51 R5 | ? | ?
+| Alienware Area-51 R5 | 1.1.10 | 21 Mar 2018 | yes (not verified)
 | Alienware Aurora R5 | 1.0.16 | 06 Feb 2018 | yes (not verified)
 | Alienware Aurora R6 | 1.0.15 | 02 Mar 2018 | yes (not verified)
 | Alienware Aurora R7 | 1.0.7 | 22 Feb 2018 | yes (not verified)
@@ -474,7 +475,9 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Inspiron 11 (3169) | 1.4.0 | 06 Feb 2018 | yes (not verified)
 | Inspiron 11 (3169) | 1.4.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 11 (3179) | 1.4.0 | 18 Feb 2018 | yes (not verified)
+| Inspiron 11 2-in-1 (3152) | 1.5.0 | 12 Mrz 2018 | yes (not verified)
 | Inspiron 11 2-in-1 (3153) | 1.18.2 | 06 Feb 2018 | yes (not verified)
+| Inspiron 11 2-in-1 (3157) | 1.5.0 | 12 Mrz 2018 | yes (not verified)
 | Inspiron 11 2-in-1 (3158) | 1.18.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 13 2-in-1 (5368) | 1.15.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 13 2-in-1 (5378) | 1.23.3 | 18 Feb 2018 | yes (not verified)
@@ -526,7 +529,7 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Inspiron 17 2-in-1 (7779) | 1.23.3 | 18 Feb 2018 | yes (not verified)
 | Inspiron 17R (5737) | A10 | 24 Feb 2018 | yes (not verified)
 | Inspiron 20 AIO (3043) | A13 | 07 Mar 2018 | yes (not verified)
-| Inspiron 20 AIO (3052) | ? | ?
+| Inspiron 20 AIO (3052) | 3.11.0 | 05 Mar 2018 | yes (not verified)
 | Inspiron 20 AIO (3059) | 2.8.1 | 06 Feb 2018 | yes (not verified)
 | Inspiron 20 AIO (3064) | 2.3.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 22 (3263) | 1.7.0 | 06 Feb 2018 | yes (not verified)
@@ -534,28 +537,34 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Inspiron 22 AIO (3264) | 2.3.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 23 (5348) | A10 | 27 Feb 2018 | yes (not verified)
 | Inspiron 2350 | A10 | 27 Feb 2018 | yes (not verified)
-| Inspiron 24 AIO (3452) | ? | ?
+| Inspiron 24 AIO (3452) | 3.11.0 | 05 Mar 2018 | yes (not verified)
 | Inspiron 24 AIO (3459) | 2.8.1 | 06 Feb 2018 | yes (not verified)
 | Inspiron 24 AIO (3464) | 2.3.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 24 AIO (5459) | 2.8.0 | 06 Feb 2018 | yes (not verified)
 | Inspiron 24 AIO (5488) | 2.5.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 24 AIO (7459) | 1.7.1 | 06 Feb 2018 | yes (not verified)
-| Inspiron 3147 | ? | ?
+| Inspiron 3050 | A07 | 09 Mrz 2018 | yes (not verified)
+| Inspiron 3147 | A12 | 12 Mrz 2018 | yes (not verified)
 | Inspiron 3148 | A10 | 24 Feb 2018 | yes (not verified)
 | Inspiron 3250 | 3.5.2 | 06 Feb 2018 | yes (not verified)
-| Inspiron 3252 | ? | ?
+| Inspiron 3252 | 2.13.0 | 12 Mrz 2018 | yes (not verified)
 | Inspiron 3268 | 1.7.0 | 18 Feb 2018 | yes (not verified)
 | Inspiron 3277 | 1.3.1 | 19 Feb 2018 | yes (not verified)
-| Inspiron 3442 | A13 | 24 Feb 2018
-| Inspiron 3443 | A09 | 24 Feb 2018
+| Inspiron 3442 | A13 | 24 Feb 2018 | ?
+| Inspiron 3443 | A09 | 24 Feb 2018 | ?
+| Inspiron 3451 | A07 | 12 Mrz 2018 | yes (not verified)
+| Inspiron 3452 | 4.3.0 | 05 Mrz 2018 | yes (not verified)
 | Inspiron 3458 | A15 | 06 Mar 2018
 | Inspiron 3476 | 1.2.1 | 18 Feb 2018 | yes (not verified)
 | Inspiron 3477 | 1.3.1 | 19 Feb 2018 | yes (not verified)
 | Inspiron 3537 | A10 | 24 Feb 2018 | yes (not verified)
 | Inspiron 3542 | A13 | 24 Feb 2018 | yes (not verified)
 | Inspiron 3543 | A09 | 24 Feb 2018 | yes (not verified)
+| Inspiron 3551 | A07 | 12 Mrz 2018 | yes (not verified)
+| Inspiron 3552 | 4.3.0 | 05 Mrz 2018 | yes (not verified)
 | Inspiron 3558 | A15 | 06 Mar 2018 | yes (not verified)
 | Inspiron 3576 | 1.2.1 | 18 Feb 2018 | yes (not verified)
+| Inspiron 3646 | A10 | 17 Mrz 2018 | yes (not verified)
 | Inspiron 3647 | A09 | 21 Feb 2018 | yes (not verified)
 | Inspiron 3650 | 3.5.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 3662 | 2.5.0 | 06 Feb 2018 | yes (not verified)
@@ -566,6 +575,7 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Inspiron 5442 | A11 | 24 Feb 2018 | yes (not verified)
 | Inspiron 5447 | A11 | 24 Feb 2018 | yes (not verified)
 | Inspiron 5448 | A08 | 24 Feb 2018 | yes (not verified)
+| Inspiron 5451 | A04 | 19 Mrz 2018 | yes (not verified)
 | Inspiron 5452 | ? | ?
 | Inspiron 5457 | 1.3.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 5458 | A15 | 22 Feb 2018 | yes (not verified)
@@ -573,11 +583,13 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Inspiron 5542 | A11 | 24 Feb 2018 | yes (not verified)
 | Inspiron 5547 | A11 | 24 Feb 2018 | yes (not verified)
 | Inspiron 5548 | A08 | 24 Feb 2018 | yes (not verified)
+| Inspiron 5551 | A04 | 19 Mrz 2018 | yes (not verified)
 | Inspiron 5552 | ? | ?
 | Inspiron 5557 | 1.3.2 | 06 Feb 2018 | yes (not verified)
 | Inspiron 5558 | A15 | 22 Feb 2018 | yes (not verified)
 | Inspiron 5559 | 1.4.1 | 06 Feb 2018 | yes (not verified)
 | Inspiron 5570 | 1.1.3 | 18 Feb 2018 | yes (not verified)
+| Inspiron 5680 | 1.1.1 | 12 Mrz 2018 | yes (not verified)
 | Inspiron 5748 | A13 | 24 Feb 2018 | yes (not verified)
 | Inspiron 5749 | A09 | 24 Feb 2018 | yes (not verified)
 | Inspiron 5758 | A15 | 22 Feb 2018 | yes (not verified)
@@ -590,8 +602,8 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Inspiron 7557 | 1.2.2 | 23 Feb 2018 | yes (not verified)
 | Inspiron 7558 | A11 | 24 Feb 2018 | yes (not verified)
 | Inspiron 7570 | 1.7.0 | 18 Feb 2018 | yes (not verified)
-| Latitude 3150 | ? | ?
-| Latitude 3160 | ? | ?
+| Latitude 3150 | A09 | 21 Mrz 2018 | yes (not verified)
+| Latitude 3160 | A10 | 21 Mrz 2018 | yes (not verified)
 | Latitude 3180 | 1.3.0 | 06 Feb 2018 | yes (not verified)
 | Latitude 3189 | 1.3.0 | 06 Feb 2018 | yes (not verified)
 | Latitude 3330 | ? | ?
@@ -631,6 +643,7 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Latitude 7204 | A13 | 02 Mar 2018 | yes (not verified)
 | Latitude 7212 | 1.9.0 | 18 Feb 2018 | yes (not verified)
 | Latitude 7214 | 1.15.0 | 06 Feb 2018 | yes (not verified)
+| Latitude 7250 | A19 | 22 Feb 2018 | yes (not verified)
 | Latitude 7275 | 1.1.34 | 06 Feb 2018 | yes (not verified)
 | Latitude 7280 | 1.8.2 | 18 Feb 2018 | yes (not verified)
 | Latitude 7285 | 1.1.3 | 18 Feb 2018 | yes (not verified)
@@ -673,7 +686,7 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Latitude E7440 | A25 | 01 Mar 2018 | yes (not verified)
 | Latitude E7450 | A19 | 22 Feb 2018 | yes (not verified)
 | Latitude E7470 | 1.18.5 | 06 Feb 2018 | yes (not verified)
-| OptiPlex 3010 | ? | ?
+| OptiPlex 3010 | A19 | 21 Mrz 2018 | yes (not verified)
 | OptiPlex 3011 AIO | A12 | ?
 | OptiPlex 3020 | A17 | 27 Feb 2018 | yes (not verified)
 | OptiPlex 3020M | A12 | 27 Feb 2018 | yes (not verified)
@@ -687,22 +700,22 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | OptiPlex 5040 | 1.8.1 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 5050 | 1.7.9 | 18 Feb 2018 | yes (not verified)
 | OptiPlex 5250 | 1.8.5 | 18 Feb 2018 | yes (not verified)
-| OptiPlex 7010 | A26 | ? | no |
+| OptiPlex 7010 | A28 | 14 Mrz 2018 | yes (not verified)
 | OptiPlex 7020 | A15 | 27 Feb 2018 | yes (not verified)
 | OptiPlex 7040 | 1.8.1 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 7050 | 1.7.9 | 18 Feb 2018 | yes (not verified)
 | OptiPlex 7440 AIO | 1.8.6 | 06 Feb 2018 | yes (not verified)
 | OptiPlex 7450 | 1.8.5 | 18 Feb 2018 | yes (not verified)
 | OptiPlex 780 | ? | ?
-| OptiPlex 790 | ? | ?
+| OptiPlex 790 | A21 | 21 Mrz 2018 | yes (not verified)
 | OptiPlex 9010 | A27 | ? | no
-| OptiPlex 9010 AIO | ? | ?
+| OptiPlex 9010 AIO | A23 | 12 Mar 2018 | yes (not verified)
 | OptiPlex 9020 | A22 | 27 Feb 2018 | yes (not verified)
 | OptiPlex 9020 AIO | A17 | 27 Feb 2018 | yes (not verified)
 | OptiPlex 9020M | A16 | 27 Feb 2018 | yes (not verified)
 | OptiPlex 9030 | A19 | 27 Feb 2018 | yes (not verified)
 | OptiPlex 960 | ? | ?
-| OptiPlex 980 | ? | ?
+| OptiPlex 980 | A18 | 23 Mrz 2018 | yes (not verified)
 | OptiPlex 990 | A23 | 07 Mar 2018 | yes (not verified)
 | OptiPlex XE2 | A22 | 27 Feb 2018 | yes (not verified)
 | Precision 3420 Tower | 2.7.3 | 18 Feb 2018 | yes (not verified)
@@ -734,13 +747,14 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Precision R7610 | A16 | 06 Mar 2018 | yes (not verified)
 | Precision Rack 7910 | 2.7.1 | 27 Feb 2018 | yes (not verified)
 | Precision Rack 7920 | 1.2.71 | ? | no
-| Precision T1650 | A25 | ? | no
+| Precision T1600 | A20 | 21 Mar 2018 | yes (not verified)
+| Precision T1650 | A27 | 15 Mar 2018 | yes (not verified)
 | Precision T1700 | A25 | 27 Feb 2018 | yes (not verified)
 | Precision T3600 | ? | ?
 | Precision T3610 | A16 | 06 Mar 2018 | yes (not verified)
 | Precision T5500 | ? | ?
 | Precision T5600 | ? | ?
-| Precision T5610 | A15 | ? | no
+| Precision T5610 | A16 | 19 Mar 2018 | yes (not verified)
 | Precision T7600 | ? | ?
 | Precision T7610 | A16 | 06 Mar 2018 | yes (not verified)
 | Venue 10 Pro (5056) | 1.11.0 | 07 Mar 2018 | yes (not verified)
@@ -757,6 +771,7 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Vostro 14 (5470) | ? | ?
 | Vostro 15 (3549) | A10 | 24 Feb 2018 | yes (not verified)
 | Vostro 15 (3559) | 1.3.1 | 06 Feb 2018 | yes (not verified)
+| Vostro 15 (3561) | 1.4.0 | 12 Mrz 2018 | yes (not verified)
 | Vostro 15 (3562) | 1.9.2 | 06 Feb 2018 | yes (not verified)
 | Vostro 15 (3568) | 2.2.2 | 18 Feb 2018 | yes (not verified)
 | Vostro 15 (5568) | 1.5.4 | 18 Feb 2018 | yes (not verified)
@@ -765,7 +780,7 @@ The Operating System patches provide mitigation to Spectre (Variant 1) and Meltd
 | Vostro 24 (5450) | 2.8.0 | 06 Feb 2018 | yes (not verified)
 | Vostro 24 (5460 Kaby Lake) | 2.5.0 | 18 Feb 2018 | yes (not verified)
 | Vostro 24 (5460) | 1.4.0 | 06 Feb 2018 | yes (not verified)
-| Vostro 3052 | ? | ?
+| Vostro 3052 | 3.11.0 | 05 Mar 2018 | yes (not verified)
 | Vostro 3250 | 3.5.2 | 06 Feb 2018 | yes (not verified)
 | Vostro 3252 | 2.13.0 | 26 Feb 2018 | yes (not verified)
 | Vostro 3267 | 1.7.0 | 18 Feb 2018 | yes (not verified)
